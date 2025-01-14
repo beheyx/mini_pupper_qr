@@ -1,0 +1,23 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to /tmp/code-3a1b6b4a-2ba4-4262-b6b3-29379e8012d4
+Extension host agent listening on /tmp/code-3a1b6b4a-2ba4-4262-b6b3-29379e8012d4
+
+[23:12:18] 
+
+
+
+
+[23:12:19] Extension host agent started.
+[23:12:19] [<unknown>][9504dc16][ExtensionHostConnection] New connection established.
+[23:12:19] [<unknown>][eed46a51][ManagementConnection] New connection established.
+[23:12:25] [<unknown>][9504dc16][ExtensionHostConnection] <1414> Launched Extension Host Process.
+[23:12:33] [File Watcher] Unexpected error: inotify_add_watch on '/home/ubuntu/.vscode-server/data/logs/20241025T181059/exthost1/vscode.json-language-features' failed: No such file or directory (EUNKNOWN) (path: /home/ubuntu)
+[23:12:33] [File Watcher (universal)] inotify_add_watch on '/home/ubuntu/.vscode-server/data/logs/20241025T181059/exthost1/vscode.json-language-features' failed: No such file or directory
+New EH opened, aborting shutdown
+[23:17:19] New EH opened, aborting shutdown

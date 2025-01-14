@@ -1,0 +1,53 @@
+1733520396.8224449 [INFO] [launch]: All log files can be found below /home/ubuntu/.ros/log/2024-12-06-21-26-36-818954-minipupperv2-10312
+1733520396.8231418 [INFO] [launch]: Default logging verbosity is set to INFO
+1733520402.4999375 [INFO] [robot_state_publisher-1]: process started with pid [10320]
+1733520402.5015590 [INFO] [quadruped_controller_node-2]: process started with pid [10322]
+1733520402.5033538 [INFO] [state_estimation_node-3]: process started with pid [10324]
+1733520402.5049200 [INFO] [ekf_node-4]: process started with pid [10326]
+1733520402.5085025 [INFO] [ekf_node-5]: process started with pid [10328]
+1733520402.5148799 [INFO] [servo_interface-6]: process started with pid [10336]
+1733520402.5173616 [INFO] [ldlidar_stl_ros2_node-7]: process started with pid [10356]
+1733520402.5349877 [INFO] [imu_interface-8]: process started with pid [10360]
+1733520403.1096656 [robot_state_publisher-1] [INFO] [1733520403.096202278] [robot_state_publisher]: got segment Board_PCB
+1733520403.1172380 [robot_state_publisher-1] [INFO] [1733520403.109438471] [robot_state_publisher]: got segment Board_connectors_1
+1733520403.1179500 [robot_state_publisher-1] [INFO] [1733520403.109908650] [robot_state_publisher]: got segment Board_connectors_2
+1733520403.1201277 [robot_state_publisher-1] [INFO] [1733520403.110050518] [robot_state_publisher]: got segment Body_front
+1733520403.1223509 [robot_state_publisher-1] [INFO] [1733520403.110098925] [robot_state_publisher]: got segment Shell_Side
+1733520403.1241269 [robot_state_publisher-1] [INFO] [1733520403.110132313] [robot_state_publisher]: got segment base_inertia
+1733520403.1265571 [robot_state_publisher-1] [INFO] [1733520403.110548326] [robot_state_publisher]: got segment base_link
+1733520403.1283588 [robot_state_publisher-1] [INFO] [1733520403.110601603] [robot_state_publisher]: got segment imu_link
+1733520403.1297421 [robot_state_publisher-1] [INFO] [1733520403.110634751] [robot_state_publisher]: got segment lb1
+1733520403.1394665 [robot_state_publisher-1] [INFO] [1733520403.110664769] [robot_state_publisher]: got segment lb2
+1733520403.1452110 [robot_state_publisher-1] [INFO] [1733520403.110693676] [robot_state_publisher]: got segment lb3
+1733520403.1484194 [robot_state_publisher-1] [INFO] [1733520403.110722509] [robot_state_publisher]: got segment lbfoot
+1733520403.1502495 [robot_state_publisher-1] [INFO] [1733520403.110751601] [robot_state_publisher]: got segment lf1
+1733520403.1515923 [robot_state_publisher-1] [INFO] [1733520403.111120318] [robot_state_publisher]: got segment lf2
+1733520403.1534319 [robot_state_publisher-1] [INFO] [1733520403.111191706] [robot_state_publisher]: got segment lf3
+1733520403.1547716 [robot_state_publisher-1] [INFO] [1733520403.111227817] [robot_state_publisher]: got segment lffoot
+1733520403.1564715 [robot_state_publisher-1] [INFO] [1733520403.111260465] [robot_state_publisher]: got segment lidar_link
+1733520403.1579354 [robot_state_publisher-1] [INFO] [1733520403.111289927] [robot_state_publisher]: got segment lpb1
+1733520403.1596925 [robot_state_publisher-1] [INFO] [1733520403.111319279] [robot_state_publisher]: got segment lpb2
+1733520403.1610079 [robot_state_publisher-1] [INFO] [1733520403.111349445] [robot_state_publisher]: got segment lpf1
+1733520403.1621969 [robot_state_publisher-1] [INFO] [1733520403.111378315] [robot_state_publisher]: got segment lpf2
+1733520403.1631157 [robot_state_publisher-1] [INFO] [1733520403.111756328] [robot_state_publisher]: got segment rb1
+1733520403.1642737 [robot_state_publisher-1] [INFO] [1733520403.111827290] [robot_state_publisher]: got segment rb2
+1733520403.1654518 [robot_state_publisher-1] [INFO] [1733520403.111862271] [robot_state_publisher]: got segment rb3
+1733520403.1667285 [robot_state_publisher-1] [INFO] [1733520403.111893012] [robot_state_publisher]: got segment rbfoot
+1733520403.1680892 [robot_state_publisher-1] [INFO] [1733520403.111923697] [robot_state_publisher]: got segment rf1
+1733520403.1699493 [robot_state_publisher-1] [INFO] [1733520403.111952270] [robot_state_publisher]: got segment rf2
+1733520403.1717618 [robot_state_publisher-1] [INFO] [1733520403.111981233] [robot_state_publisher]: got segment rf3
+1733520403.1736503 [robot_state_publisher-1] [INFO] [1733520403.112009862] [robot_state_publisher]: got segment rffoot
+1733520403.1754735 [robot_state_publisher-1] [INFO] [1733520403.112457745] [robot_state_publisher]: got segment rpb1
+1733520403.1773536 [robot_state_publisher-1] [INFO] [1733520403.112542929] [robot_state_publisher]: got segment rpb2
+1733520403.1792827 [robot_state_publisher-1] [INFO] [1733520403.112574873] [robot_state_publisher]: got segment rpf1
+1733520403.1808758 [robot_state_publisher-1] [INFO] [1733520403.112606947] [robot_state_publisher]: got segment rpf2
+1733520406.5159545 [ERROR] [ldlidar_stl_ros2_node-7]: process has died [pid 10356, exit code 1, cmd '/home/ubuntu/ros2_ws/install/ldlidar_stl_ros2/lib/ldlidar_stl_ros2/ldlidar_stl_ros2_node --ros-args -r __node:=LD06 --params-file /tmp/launch_params_gu_33fw9 --params-file /tmp/launch_params_u9o5zene --params-file /tmp/launch_params_43pq5lds --params-file /tmp/launch_params_4boeu9c9 --params-file /tmp/launch_params_ai5ydebc --params-file /tmp/launch_params__w8ujvu3 --params-file /tmp/launch_params_0_aig883 --params-file /tmp/launch_params_cy0qyldg --params-file /tmp/launch_params_fua6lfx5'].
+1733520477.7528367 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+1733520477.9510562 [robot_state_publisher-1] [INFO] [1733520477.747572890] [rclcpp]: signal_handler(signum=2)
+1733520478.0311327 [INFO] [quadruped_controller_node-2]: process has finished cleanly [pid 10322]
+1733520478.1712077 [ERROR] [servo_interface-6]: process has died [pid 10336, exit code -2, cmd '/home/ubuntu/ros2_ws/install/mini_pupper_driver/lib/mini_pupper_driver/servo_interface --ros-args -r __node:=servo_interface'].
+1733520478.1864135 [INFO] [ekf_node-5]: process has finished cleanly [pid 10328]
+1733520478.2154121 [INFO] [robot_state_publisher-1]: process has finished cleanly [pid 10320]
+1733520478.2750852 [INFO] [ekf_node-4]: process has finished cleanly [pid 10326]
+1733520478.2785046 [INFO] [state_estimation_node-3]: process has finished cleanly [pid 10324]
+1733520478.3637829 [ERROR] [imu_interface-8]: process has died [pid 10360, exit code -2, cmd '/home/ubuntu/ros2_ws/install/mini_pupper_driver/lib/mini_pupper_driver/imu_interface --ros-args -r __node:=imu_interface -r __ns:=/'].

@@ -1,0 +1,71 @@
+[0.200s] Invoking command in '/home/ubuntu/ros2_ws/build/champ_base': CMAKE_PREFIX_PATH=/home/ubuntu/ros2_ws/install/champ_msgs:/home/ubuntu/ros2_ws/install/champ:/home/ubuntu/ros2_ws/install/mini_pupper_slam:/home/ubuntu/ros2_ws/install/mini_pupper_interfaces:/home/ubuntu/ros2_ws/install/mini_pupper_description:/home/ubuntu/ros2_ws/install/mini_pupper_bringup:/home/ubuntu/ros2_ws/install/mini_pupper_2_description:/home/ubuntu/ros2_ws/install/ldlidar_stl_ros2:/home/ubuntu/ros2_ws/install/champ_teleop:/home/ubuntu/ros2_ws/install/champ_bringup:/home/ubuntu/ros2_ws/install/champ_base:/home/ubuntu/ros2_ws/install/champ_description:/home/ubuntu/ros2_ws/install/champ_config:/home/ubuntu/ros2_ws/install/mini_pupper_music:/home/ubuntu/ros2_ws/install/mini_pupper_dance:/home/ubuntu/ros2_ws/install/mini_pupper_driver:/opt/ros/humble LD_LIBRARY_PATH=/home/ubuntu/ros2_ws/install/champ_msgs/lib:/home/ubuntu/ros2_ws/install/mini_pupper_interfaces/lib:/home/ubuntu/ros2_ws/install/champ_base/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake /home/ubuntu/ros2_ws/src/champ/champ/champ_base -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ubuntu/ros2_ws/install/champ_base
+[0.340s] -- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.352s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.410s] -- Found rclcpp: 16.0.9 (/opt/ros/humble/share/rclcpp/cmake)
+[1.664s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.683s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.722s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.795s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.899s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.252s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[2.267s] -- Found rmw_fastrtps_cpp: 6.2.6 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[3.484s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[5.079s] -- Found rclpy: 3.3.13 (/opt/ros/humble/share/rclpy/cmake)
+[5.080s] -- Found champ_msgs: 0.1.0 (/home/ubuntu/ros2_ws/install/champ_msgs/share/champ_msgs/cmake)
+[5.620s] -- Found visualization_msgs: 4.2.3 (/opt/ros/humble/share/visualization_msgs/cmake)
+[6.650s] -- Found trajectory_msgs: 4.2.3 (/opt/ros/humble/share/trajectory_msgs/cmake)
+[7.051s] -- Found nav_msgs: 4.2.3 (/opt/ros/humble/share/nav_msgs/cmake)
+[7.447s] -- Found tf2_ros: 0.25.6 (/opt/ros/humble/share/tf2_ros/cmake)
+[9.403s] -- Found urdf: 2.6.0 (/opt/ros/humble/share/urdf/cmake)
+[9.658s] -- Found champ: 0.1.0 (/home/ubuntu/ros2_ws/install/champ/share/champ/cmake)
+[10.207s] -- Configuring done
+[10.611s] -- Generating done
+[10.630s] -- Build files have been written to: /home/ubuntu/ros2_ws/build/champ_base
+[10.676s] Invoked command in '/home/ubuntu/ros2_ws/build/champ_base' returned '0': CMAKE_PREFIX_PATH=/home/ubuntu/ros2_ws/install/champ_msgs:/home/ubuntu/ros2_ws/install/champ:/home/ubuntu/ros2_ws/install/mini_pupper_slam:/home/ubuntu/ros2_ws/install/mini_pupper_interfaces:/home/ubuntu/ros2_ws/install/mini_pupper_description:/home/ubuntu/ros2_ws/install/mini_pupper_bringup:/home/ubuntu/ros2_ws/install/mini_pupper_2_description:/home/ubuntu/ros2_ws/install/ldlidar_stl_ros2:/home/ubuntu/ros2_ws/install/champ_teleop:/home/ubuntu/ros2_ws/install/champ_bringup:/home/ubuntu/ros2_ws/install/champ_base:/home/ubuntu/ros2_ws/install/champ_description:/home/ubuntu/ros2_ws/install/champ_config:/home/ubuntu/ros2_ws/install/mini_pupper_music:/home/ubuntu/ros2_ws/install/mini_pupper_dance:/home/ubuntu/ros2_ws/install/mini_pupper_driver:/opt/ros/humble LD_LIBRARY_PATH=/home/ubuntu/ros2_ws/install/champ_msgs/lib:/home/ubuntu/ros2_ws/install/mini_pupper_interfaces/lib:/home/ubuntu/ros2_ws/install/champ_base/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake /home/ubuntu/ros2_ws/src/champ/champ/champ_base -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ubuntu/ros2_ws/install/champ_base
+[10.685s] Invoking command in '/home/ubuntu/ros2_ws/build/champ_base': CMAKE_PREFIX_PATH=/home/ubuntu/ros2_ws/install/champ_msgs:/home/ubuntu/ros2_ws/install/champ:/home/ubuntu/ros2_ws/install/mini_pupper_slam:/home/ubuntu/ros2_ws/install/mini_pupper_interfaces:/home/ubuntu/ros2_ws/install/mini_pupper_description:/home/ubuntu/ros2_ws/install/mini_pupper_bringup:/home/ubuntu/ros2_ws/install/mini_pupper_2_description:/home/ubuntu/ros2_ws/install/ldlidar_stl_ros2:/home/ubuntu/ros2_ws/install/champ_teleop:/home/ubuntu/ros2_ws/install/champ_bringup:/home/ubuntu/ros2_ws/install/champ_base:/home/ubuntu/ros2_ws/install/champ_description:/home/ubuntu/ros2_ws/install/champ_config:/home/ubuntu/ros2_ws/install/mini_pupper_music:/home/ubuntu/ros2_ws/install/mini_pupper_dance:/home/ubuntu/ros2_ws/install/mini_pupper_driver:/opt/ros/humble LD_LIBRARY_PATH=/home/ubuntu/ros2_ws/install/champ_msgs/lib:/home/ubuntu/ros2_ws/install/mini_pupper_interfaces/lib:/home/ubuntu/ros2_ws/install/champ_base/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /home/ubuntu/ros2_ws/build/champ_base -- -j4 -l4
+[10.913s] [35m[1mConsolidate compiler generated dependencies of target quadruped_controller[0m
+[10.929s] [35m[1mConsolidate compiler generated dependencies of target message_relay[0m
+[10.947s] [35m[1mConsolidate compiler generated dependencies of target state_estimation[0m
+[11.097s] [ 16%] Built target quadruped_controller
+[11.112s] [ 33%] Built target message_relay
+[11.141s] [ 50%] Built target state_estimation
+[11.156s] [35m[1mConsolidate compiler generated dependencies of target quadruped_controller_node[0m
+[11.178s] [35m[1mConsolidate compiler generated dependencies of target message_relay_node[0m
+[11.231s] [35m[1mConsolidate compiler generated dependencies of target state_estimation_node[0m
+[11.275s] [ 66%] Built target quadruped_controller_node
+[11.300s] [ 83%] Built target message_relay_node
+[11.363s] [100%] Built target state_estimation_node
+[11.409s] Invoked command in '/home/ubuntu/ros2_ws/build/champ_base' returned '0': CMAKE_PREFIX_PATH=/home/ubuntu/ros2_ws/install/champ_msgs:/home/ubuntu/ros2_ws/install/champ:/home/ubuntu/ros2_ws/install/mini_pupper_slam:/home/ubuntu/ros2_ws/install/mini_pupper_interfaces:/home/ubuntu/ros2_ws/install/mini_pupper_description:/home/ubuntu/ros2_ws/install/mini_pupper_bringup:/home/ubuntu/ros2_ws/install/mini_pupper_2_description:/home/ubuntu/ros2_ws/install/ldlidar_stl_ros2:/home/ubuntu/ros2_ws/install/champ_teleop:/home/ubuntu/ros2_ws/install/champ_bringup:/home/ubuntu/ros2_ws/install/champ_base:/home/ubuntu/ros2_ws/install/champ_description:/home/ubuntu/ros2_ws/install/champ_config:/home/ubuntu/ros2_ws/install/mini_pupper_music:/home/ubuntu/ros2_ws/install/mini_pupper_dance:/home/ubuntu/ros2_ws/install/mini_pupper_driver:/opt/ros/humble LD_LIBRARY_PATH=/home/ubuntu/ros2_ws/install/champ_msgs/lib:/home/ubuntu/ros2_ws/install/mini_pupper_interfaces/lib:/home/ubuntu/ros2_ws/install/champ_base/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /home/ubuntu/ros2_ws/build/champ_base -- -j4 -l4
+[11.665s] Invoking command in '/home/ubuntu/ros2_ws/build/champ_base': CMAKE_PREFIX_PATH=/home/ubuntu/ros2_ws/install/champ_msgs:/home/ubuntu/ros2_ws/install/champ:/home/ubuntu/ros2_ws/install/mini_pupper_slam:/home/ubuntu/ros2_ws/install/mini_pupper_interfaces:/home/ubuntu/ros2_ws/install/mini_pupper_description:/home/ubuntu/ros2_ws/install/mini_pupper_bringup:/home/ubuntu/ros2_ws/install/mini_pupper_2_description:/home/ubuntu/ros2_ws/install/ldlidar_stl_ros2:/home/ubuntu/ros2_ws/install/champ_teleop:/home/ubuntu/ros2_ws/install/champ_bringup:/home/ubuntu/ros2_ws/install/champ_base:/home/ubuntu/ros2_ws/install/champ_description:/home/ubuntu/ros2_ws/install/champ_config:/home/ubuntu/ros2_ws/install/mini_pupper_music:/home/ubuntu/ros2_ws/install/mini_pupper_dance:/home/ubuntu/ros2_ws/install/mini_pupper_driver:/opt/ros/humble LD_LIBRARY_PATH=/home/ubuntu/ros2_ws/install/champ_msgs/lib:/home/ubuntu/ros2_ws/install/mini_pupper_interfaces/lib:/home/ubuntu/ros2_ws/install/champ_base/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --install /home/ubuntu/ros2_ws/build/champ_base
+[11.694s] -- Install configuration: ""
+[11.696s] -- Execute custom install script
+[11.728s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_base/share/champ_base/config/ekf/base_to_footprint.yaml
+[11.729s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_base/share/champ_base/config/ekf/footprint_to_odom.yaml
+[11.731s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_base/share/champ_base/config/velocity_smoother/velocity_smoother.yaml
+[11.734s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_base/lib/libquadruped_controller.so
+[11.735s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_base/bin/quadruped_controller_node
+[11.736s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_base/lib/libmessage_relay.so
+[11.737s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_base/bin/message_relay_node
+[11.738s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_base/lib/libstate_estimation.so
+[11.739s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_base/bin/state_estimation_node
+[11.742s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_base/lib/champ_base/quadruped_controller_node
+[11.743s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_base/lib/champ_base/message_relay_node
+[11.744s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_base/lib/champ_base/state_estimation_node
+[11.745s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_base/share/ament_index/resource_index/package_run_dependencies/champ_base
+[11.747s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_base/share/ament_index/resource_index/parent_prefix_path/champ_base
+[11.749s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_base/share/champ_base/environment/ament_prefix_path.sh
+[11.750s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_base/share/champ_base/environment/ament_prefix_path.dsv
+[11.752s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_base/share/champ_base/environment/path.sh
+[11.753s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_base/share/champ_base/environment/path.dsv
+[11.754s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_base/share/champ_base/local_setup.bash
+[11.756s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_base/share/champ_base/local_setup.sh
+[11.757s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_base/share/champ_base/local_setup.zsh
+[11.758s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_base/share/champ_base/local_setup.dsv
+[11.759s] -- Symlinking: /home/ubuntu/ros2_ws/install/champ_base/share/champ_base/package.dsv
+[11.797s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_base/share/ament_index/resource_index/packages/champ_base
+[11.799s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_base/share/champ_base/cmake/ament_cmake_export_include_directories-extras.cmake
+[11.801s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_base/share/champ_base/cmake/ament_cmake_export_dependencies-extras.cmake
+[11.802s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_base/share/champ_base/cmake/champ_baseConfig.cmake
+[11.803s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_base/share/champ_base/cmake/champ_baseConfig-version.cmake
+[11.805s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_base/share/champ_base/package.xml
+[11.812s] Invoked command in '/home/ubuntu/ros2_ws/build/champ_base' returned '0': CMAKE_PREFIX_PATH=/home/ubuntu/ros2_ws/install/champ_msgs:/home/ubuntu/ros2_ws/install/champ:/home/ubuntu/ros2_ws/install/mini_pupper_slam:/home/ubuntu/ros2_ws/install/mini_pupper_interfaces:/home/ubuntu/ros2_ws/install/mini_pupper_description:/home/ubuntu/ros2_ws/install/mini_pupper_bringup:/home/ubuntu/ros2_ws/install/mini_pupper_2_description:/home/ubuntu/ros2_ws/install/ldlidar_stl_ros2:/home/ubuntu/ros2_ws/install/champ_teleop:/home/ubuntu/ros2_ws/install/champ_bringup:/home/ubuntu/ros2_ws/install/champ_base:/home/ubuntu/ros2_ws/install/champ_description:/home/ubuntu/ros2_ws/install/champ_config:/home/ubuntu/ros2_ws/install/mini_pupper_music:/home/ubuntu/ros2_ws/install/mini_pupper_dance:/home/ubuntu/ros2_ws/install/mini_pupper_driver:/opt/ros/humble LD_LIBRARY_PATH=/home/ubuntu/ros2_ws/install/champ_msgs/lib:/home/ubuntu/ros2_ws/install/mini_pupper_interfaces/lib:/home/ubuntu/ros2_ws/install/champ_base/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --install /home/ubuntu/ros2_ws/build/champ_base

@@ -1,0 +1,2 @@
+[WARN] [1733789911.699342471] [base_to_footprint_ekf]: Warning: Some linear velocity entries in parameter imu0_config are listed true, but an sensor_msgs/Imu contains no information about linear velocities
+[INFO] [1733789919.827169642] [rclcpp]: signal_handler(signum=2)

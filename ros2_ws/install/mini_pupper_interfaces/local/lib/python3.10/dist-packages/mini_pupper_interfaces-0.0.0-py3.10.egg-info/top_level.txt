@@ -1,0 +1,1 @@
+/home/ubuntu/ros2_ws/build/mini_pupper_interfaces/ament_cmake_python/mini_pupper_interfaces/mini_pupper_interfaces.egg-info/top_level.txt

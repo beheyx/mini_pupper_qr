@@ -1,0 +1,1 @@
+/home/ubuntu/ros2_ws/build/mini_pupper_interfaces/rosidl_generator_py/mini_pupper_interfaces/_mini_pupper_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c

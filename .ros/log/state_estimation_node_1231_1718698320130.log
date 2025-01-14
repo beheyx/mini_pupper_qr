@@ -1,0 +1,4 @@
+[INFO] [1718698321.285389697] [rclcpp]: Successfully parsed urdf file
+[WARN] [1718698323.541061259] []: Messages of type 0 arrived out of order (will print only once)
+[WARN] [1718700610.591245929] []: Messages of type 1 arrived out of order (will print only once)
+[INFO] [1718700610.725429297] [rclcpp]: signal_handler(signum=2)

@@ -1,0 +1,25 @@
+[5.906s] Invoking command in '/home/ubuntu/ros2_ws/build/mini_pupper_driver': PYTHONPATH=/home/ubuntu/ros2_ws/build/mini_pupper_driver/prefix_override:/home/ubuntu/ros2_ws/install/mini_pupper_driver/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/ubuntu/ros2_ws/build/mini_pupper_driver/build --no-deps symlink_data --force
+[8.761s] running develop
+[10.555s] running egg_info
+[10.556s] writing mini_pupper_driver.egg-info/PKG-INFO
+[10.561s] writing dependency_links to mini_pupper_driver.egg-info/dependency_links.txt
+[10.564s] writing entry points to mini_pupper_driver.egg-info/entry_points.txt
+[10.568s] writing requirements to mini_pupper_driver.egg-info/requires.txt
+[10.571s] writing top-level names to mini_pupper_driver.egg-info/top_level.txt
+[10.588s] reading manifest file 'mini_pupper_driver.egg-info/SOURCES.txt'
+[10.598s] writing manifest file 'mini_pupper_driver.egg-info/SOURCES.txt'
+[10.613s] running build_ext
+[10.616s] Creating /home/ubuntu/ros2_ws/install/mini_pupper_driver/lib/python3.10/site-packages/mini-pupper-driver.egg-link (link to .)
+[10.624s] Installing display_interface script to /home/ubuntu/ros2_ws/install/mini_pupper_driver/lib/mini_pupper_driver
+[10.627s] Installing imu_interface script to /home/ubuntu/ros2_ws/install/mini_pupper_driver/lib/mini_pupper_driver
+[10.630s] Installing servo_interface script to /home/ubuntu/ros2_ws/install/mini_pupper_driver/lib/mini_pupper_driver
+[10.634s] 
+[10.637s] Installed /home/ubuntu/ros2_ws/build/mini_pupper_driver
+[10.644s] running symlink_data
+[10.647s] symbolically linking /home/ubuntu/ros2_ws/build/mini_pupper_driver/resource/mini_pupper_driver -> /home/ubuntu/ros2_ws/install/mini_pupper_driver/share/ament_index/resource_index/packages
+[10.650s] symbolically linking /home/ubuntu/ros2_ws/build/mini_pupper_driver/package.xml -> /home/ubuntu/ros2_ws/install/mini_pupper_driver/share/mini_pupper_driver
+[10.653s] symbolically linking /home/ubuntu/ros2_ws/build/mini_pupper_driver/launch/imu_interface.launch.py -> /home/ubuntu/ros2_ws/install/mini_pupper_driver/share/mini_pupper_driver/launch
+[10.654s] symbolically linking /home/ubuntu/ros2_ws/build/mini_pupper_driver/launch/lidar_ld06.launch.py -> /home/ubuntu/ros2_ws/install/mini_pupper_driver/share/mini_pupper_driver/launch
+[10.655s] symbolically linking /home/ubuntu/ros2_ws/build/mini_pupper_driver/launch/display_interface.launch.py -> /home/ubuntu/ros2_ws/install/mini_pupper_driver/share/mini_pupper_driver/launch
+[10.656s] symbolically linking /home/ubuntu/ros2_ws/build/mini_pupper_driver/launch/servo_interface.launch.py -> /home/ubuntu/ros2_ws/install/mini_pupper_driver/share/mini_pupper_driver/launch
+[10.922s] Invoked command in '/home/ubuntu/ros2_ws/build/mini_pupper_driver' returned '0': PYTHONPATH=/home/ubuntu/ros2_ws/build/mini_pupper_driver/prefix_override:/home/ubuntu/ros2_ws/install/mini_pupper_driver/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/ubuntu/ros2_ws/build/mini_pupper_driver/build --no-deps symlink_data --force

@@ -1,0 +1,37 @@
+[0.038s] Invoking command in '/home/ubuntu/ros2_ws/build/champ_config': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/ros2_ws/build/champ_config
+[0.190s] Invoked command in '/home/ubuntu/ros2_ws/build/champ_config' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/ros2_ws/build/champ_config
+[0.296s] Invoking command in '/home/ubuntu/ros2_ws/build/champ_config': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/ros2_ws/build/champ_config
+[0.324s] -- Install configuration: ""
+[0.327s] -- Execute custom install script
+[0.331s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/launch/bringup.launch.py
+[0.332s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/launch/gazebo.launch.py
+[0.333s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/launch/navigate.launch.py
+[0.335s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/launch/slam.launch.py
+[0.342s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/config/autonomy/navigation.yaml
+[0.343s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/config/autonomy/slam.yaml
+[0.345s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/config/gait/gait.yaml
+[0.347s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/config/joints/joints.yaml
+[0.349s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/config/links/links.yaml
+[0.352s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/maps/map.pgm
+[0.354s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/maps/map.yaml
+[0.355s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/maps/playground.pgm
+[0.357s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/maps/playground.yaml
+[0.360s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/worlds/default.world
+[0.361s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/worlds/outdoor.world
+[0.363s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/worlds/playground.world
+[0.365s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/ament_index/resource_index/package_run_dependencies/champ_config
+[0.367s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/ament_index/resource_index/parent_prefix_path/champ_config
+[0.369s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/environment/ament_prefix_path.sh
+[0.370s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/environment/ament_prefix_path.dsv
+[0.372s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/environment/path.sh
+[0.373s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/environment/path.dsv
+[0.374s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/local_setup.bash
+[0.376s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/local_setup.sh
+[0.378s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/local_setup.zsh
+[0.378s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/local_setup.dsv
+[0.379s] -- Symlinking: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/package.dsv
+[0.412s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/ament_index/resource_index/packages/champ_config
+[0.414s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/cmake/champ_configConfig.cmake
+[0.415s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/cmake/champ_configConfig-version.cmake
+[0.417s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/package.xml
+[0.425s] Invoked command in '/home/ubuntu/ros2_ws/build/champ_config' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/ros2_ws/build/champ_config

@@ -1,0 +1,18 @@
+2024-12-09 23:11:04.834 [info] Extension host with pid 1798 started
+2024-12-09 23:11:04.834 [error] Error: EEXIST: file already exists, open '/home/ubuntu/.vscode-server/data/User/workspaceStorage/aa3da611ab592c1ddfe516142c89c3cc/vscode.lock'
+2024-12-09 23:11:05.059 [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/aa3da611ab592c1ddfe516142c89c3cc/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-12-09 23:11:05.091 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-12-09 23:11:05.096 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-12-09 23:11:05.097 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2024-12-09 23:11:06.497 [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/aa3da611ab592c1ddfe516142c89c3cc/vscode.lock': The pid 6750 appears to be gone.
+2024-12-09 23:11:06.498 [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/aa3da611ab592c1ddfe516142c89c3cc/vscode.lock': Deleting a stale lock.
+2024-12-09 23:11:06.646 [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/aa3da611ab592c1ddfe516142c89c3cc/vscode.lock': Lock acquired.
+2024-12-09 23:11:07.939 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2024-12-09 23:11:07.941 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2024-12-09 23:11:09.420 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-12-09 23:11:09.423 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-12-09 23:11:11.917 [info] Eager extensions activated
+2024-12-09 23:11:11.919 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-12-09 23:11:11.929 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-12-09 23:11:22.337 [error] TypeError: Cannot set properties of undefined (setting 'name')
+	at /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist/extension.bundle.js:1:286813

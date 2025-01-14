@@ -1,0 +1,55 @@
+1718698314.4475803 [INFO] [launch]: All log files can be found below /home/ubuntu/.ros/log/2024-06-18-08-11-54-442786-minipupperv2-1221
+1718698314.4481840 [INFO] [launch]: Default logging verbosity is set to INFO
+1718698319.5313082 [INFO] [robot_state_publisher-1]: process started with pid [1227]
+1718698319.5324543 [INFO] [quadruped_controller_node-2]: process started with pid [1229]
+1718698319.5427771 [INFO] [state_estimation_node-3]: process started with pid [1231]
+1718698319.5441952 [INFO] [ekf_node-4]: process started with pid [1233]
+1718698319.5449328 [INFO] [ekf_node-5]: process started with pid [1235]
+1718698319.5457101 [INFO] [servo_interface-6]: process started with pid [1237]
+1718698319.5463943 [INFO] [ldlidar_stl_ros2_node-7]: process started with pid [1239]
+1718698319.5471106 [INFO] [imu_interface-8]: process started with pid [1241]
+1718698320.9312928 [robot_state_publisher-1] [INFO] [1718698320.930214679] [robot_state_publisher]: got segment Board_PCB
+1718698320.9365013 [robot_state_publisher-1] [INFO] [1718698320.932687660] [robot_state_publisher]: got segment Board_connectors_1
+1718698320.9448898 [robot_state_publisher-1] [INFO] [1718698320.933290957] [robot_state_publisher]: got segment Board_connectors_2
+1718698320.9459901 [robot_state_publisher-1] [INFO] [1718698320.933365086] [robot_state_publisher]: got segment Body_front
+1718698320.9470475 [robot_state_publisher-1] [INFO] [1718698320.933400216] [robot_state_publisher]: got segment Shell_Side
+1718698320.9478576 [robot_state_publisher-1] [INFO] [1718698320.933431734] [robot_state_publisher]: got segment base_inertia
+1718698320.9492488 [robot_state_publisher-1] [INFO] [1718698320.933876994] [robot_state_publisher]: got segment base_link
+1718698320.9503763 [robot_state_publisher-1] [INFO] [1718698320.933962957] [robot_state_publisher]: got segment imu_link
+1718698320.9581132 [robot_state_publisher-1] [INFO] [1718698320.934002549] [robot_state_publisher]: got segment lb1
+1718698320.9656754 [robot_state_publisher-1] [INFO] [1718698320.934036494] [robot_state_publisher]: got segment lb2
+1718698320.9722192 [robot_state_publisher-1] [INFO] [1718698320.934068179] [robot_state_publisher]: got segment lb3
+1718698320.9727352 [robot_state_publisher-1] [INFO] [1718698320.934097827] [robot_state_publisher]: got segment lbfoot
+1718698320.9730916 [robot_state_publisher-1] [INFO] [1718698320.934640197] [robot_state_publisher]: got segment lf1
+1718698320.9734759 [robot_state_publisher-1] [INFO] [1718698320.934687531] [robot_state_publisher]: got segment lf2
+1718698320.9737902 [robot_state_publisher-1] [INFO] [1718698320.934719253] [robot_state_publisher]: got segment lf3
+1718698320.9740806 [robot_state_publisher-1] [INFO] [1718698320.935080549] [robot_state_publisher]: got segment lffoot
+1718698320.9743631 [robot_state_publisher-1] [INFO] [1718698320.935127068] [robot_state_publisher]: got segment lidar_link
+1718698320.9746289 [robot_state_publisher-1] [INFO] [1718698320.935278957] [robot_state_publisher]: got segment lpb1
+1718698320.9748824 [robot_state_publisher-1] [INFO] [1718698320.935323901] [robot_state_publisher]: got segment lpb2
+1718698320.9751346 [robot_state_publisher-1] [INFO] [1718698320.935464957] [robot_state_publisher]: got segment lpf1
+1718698320.9753869 [robot_state_publisher-1] [INFO] [1718698320.935715457] [robot_state_publisher]: got segment lpf2
+1718698320.9756358 [robot_state_publisher-1] [INFO] [1718698320.935754438] [robot_state_publisher]: got segment rb1
+1718698320.9758770 [robot_state_publisher-1] [INFO] [1718698320.935785975] [robot_state_publisher]: got segment rb2
+1718698321.0253067 [robot_state_publisher-1] [INFO] [1718698320.935815531] [robot_state_publisher]: got segment rb3
+1718698321.0260146 [robot_state_publisher-1] [INFO] [1718698320.935844197] [robot_state_publisher]: got segment rbfoot
+1718698321.0284145 [robot_state_publisher-1] [INFO] [1718698320.936300086] [robot_state_publisher]: got segment rf1
+1718698321.0289555 [robot_state_publisher-1] [INFO] [1718698320.936351994] [robot_state_publisher]: got segment rf2
+1718698321.0295219 [robot_state_publisher-1] [INFO] [1718698320.936386901] [robot_state_publisher]: got segment rf3
+1718698321.0301585 [robot_state_publisher-1] [INFO] [1718698320.936417901] [robot_state_publisher]: got segment rffoot
+1718698321.0306845 [robot_state_publisher-1] [INFO] [1718698320.936447771] [robot_state_publisher]: got segment rpb1
+1718698321.0530806 [robot_state_publisher-1] [INFO] [1718698320.936477234] [robot_state_publisher]: got segment rpb2
+1718698321.0552394 [robot_state_publisher-1] [INFO] [1718698320.936506753] [robot_state_publisher]: got segment rpf1
+1718698321.0557451 [robot_state_publisher-1] [INFO] [1718698320.936536179] [robot_state_publisher]: got segment rpf2
+1718698323.5406227 [robot_state_publisher-1] [WARN] [1718698323.539647352] [robot_state_publisher]: Moved backwards in time, re-publishing joint transforms!
+1718700610.7535892 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+1718700611.5934908 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT) again, ignoring...
+1718700611.5945699 [ERROR] [imu_interface-8]: process has died [pid 1241, exit code -2, cmd '/home/ubuntu/ros2_ws/install/mini_pupper_driver/lib/mini_pupper_driver/imu_interface --ros-args -r __node:=imu_interface -r __ns:=/'].
+1718700611.5955472 [INFO] [ldlidar_stl_ros2_node-7]: process has finished cleanly [pid 1239]
+1718700611.5963943 [ERROR] [servo_interface-6]: process has died [pid 1237, exit code -2, cmd '/home/ubuntu/ros2_ws/install/mini_pupper_driver/lib/mini_pupper_driver/servo_interface --ros-args -r __node:=servo_interface'].
+1718700611.6208727 [ERROR] [state_estimation_node-3]: process has died [pid 1231, exit code -2, cmd '/home/ubuntu/ros2_ws/install/champ_base/lib/champ_base/state_estimation_node --ros-args --params-file /tmp/launch_params_ns2cm87m --params-file /tmp/launch_params_bwmoegvf --params-file /tmp/launch_params_0zdbjlqa --params-file /home/ubuntu/ros2_ws/install/mini_pupper_2_description/share/mini_pupper_2_description/config/champ/joints.yaml --params-file /home/ubuntu/ros2_ws/install/mini_pupper_2_description/share/mini_pupper_2_description/config/champ/links.yaml --params-file /home/ubuntu/ros2_ws/install/mini_pupper_2_description/share/mini_pupper_2_description/config/champ/gait.yaml'].
+1718700611.6215127 [ERROR] [robot_state_publisher-1]: process has died [pid 1227, exit code -2, cmd '/opt/ros/humble/lib/robot_state_publisher/robot_state_publisher --ros-args --params-file /tmp/launch_params_kvd60aka --params-file /tmp/launch_params_o__4pyly --params-file /tmp/launch_params__3rs_8c2 --params-file /tmp/launch_params__3rsvfpi --params-file /tmp/launch_params_klbmmmhp'].
+1718700611.6222131 [ERROR] [quadruped_controller_node-2]: process has died [pid 1229, exit code -2, cmd '/home/ubuntu/ros2_ws/install/champ_base/lib/champ_base/quadruped_controller_node --ros-args --params-file /tmp/launch_params_vq9ze2l0 --params-file /tmp/launch_params_wnrw0j2g --params-file /tmp/launch_params_zh1gt35z --params-file /tmp/launch_params_hwmiyafc --params-file /tmp/launch_params_yjsgy9pv --params-file /tmp/launch_params_ssafpq49 --params-file /tmp/launch_params_p3lz0neb --params-file /home/ubuntu/ros2_ws/install/mini_pupper_2_description/share/mini_pupper_2_description/config/champ/joints.yaml --params-file /home/ubuntu/ros2_ws/install/mini_pupper_2_description/share/mini_pupper_2_description/config/champ/links.yaml --params-file /home/ubuntu/ros2_ws/install/mini_pupper_2_description/share/mini_pupper_2_description/config/champ/gait.yaml -r /cmd_vel/smooth:=/cmd_vel'].
+1718700611.6610427 [ERROR] [ekf_node-4]: process has died [pid 1233, exit code -2, cmd '/opt/ros/humble/lib/robot_localization/ekf_node --ros-args -r __node:=base_to_footprint_ekf --params-file /tmp/launch_params_p2wyxya6 --params-file /tmp/launch_params_ixop_u9l --params-file /home/ubuntu/ros2_ws/install/champ_base/share/champ_base/config/ekf/base_to_footprint.yaml -r odometry/filtered:=odom/local'].
+1718700611.6617427 [ERROR] [ekf_node-5]: process has died [pid 1235, exit code -2, cmd '/opt/ros/humble/lib/robot_localization/ekf_node --ros-args -r __node:=footprint_to_odom_ekf --params-file /tmp/launch_params_d9sswr5l --params-file /tmp/launch_params_3thvi52t --params-file /home/ubuntu/ros2_ws/install/champ_base/share/champ_base/config/ekf/footprint_to_odom.yaml -r odometry/filtered:=odom'].
+1718700611.7771273 [robot_state_publisher-1] [INFO] [1718700610.725478905] [rclcpp]: signal_handler(signum=2)

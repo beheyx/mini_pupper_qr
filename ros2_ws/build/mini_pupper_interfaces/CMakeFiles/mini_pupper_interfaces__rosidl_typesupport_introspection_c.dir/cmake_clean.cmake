@@ -1,0 +1,21 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/mini_pupper_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/mini_pupper_interfaces/srv/detail/dance_command__type_support.c.o"
+  "CMakeFiles/mini_pupper_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/mini_pupper_interfaces/srv/detail/dance_command__type_support.c.o.d"
+  "CMakeFiles/mini_pupper_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/mini_pupper_interfaces/srv/detail/play_music__type_support.c.o"
+  "CMakeFiles/mini_pupper_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/mini_pupper_interfaces/srv/detail/play_music__type_support.c.o.d"
+  "CMakeFiles/mini_pupper_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/mini_pupper_interfaces/srv/detail/stop_music__type_support.c.o"
+  "CMakeFiles/mini_pupper_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/mini_pupper_interfaces/srv/detail/stop_music__type_support.c.o.d"
+  "libmini_pupper_interfaces__rosidl_typesupport_introspection_c.pdb"
+  "libmini_pupper_interfaces__rosidl_typesupport_introspection_c.so"
+  "rosidl_typesupport_introspection_c/mini_pupper_interfaces/srv/detail/dance_command__rosidl_typesupport_introspection_c.h"
+  "rosidl_typesupport_introspection_c/mini_pupper_interfaces/srv/detail/dance_command__type_support.c"
+  "rosidl_typesupport_introspection_c/mini_pupper_interfaces/srv/detail/play_music__rosidl_typesupport_introspection_c.h"
+  "rosidl_typesupport_introspection_c/mini_pupper_interfaces/srv/detail/play_music__type_support.c"
+  "rosidl_typesupport_introspection_c/mini_pupper_interfaces/srv/detail/stop_music__rosidl_typesupport_introspection_c.h"
+  "rosidl_typesupport_introspection_c/mini_pupper_interfaces/srv/detail/stop_music__type_support.c"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/mini_pupper_interfaces__rosidl_typesupport_introspection_c.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

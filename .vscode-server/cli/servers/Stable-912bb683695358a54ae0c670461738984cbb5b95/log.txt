@@ -1,0 +1,31 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to /tmp/code-94d937b4-7611-4c82-b864-619b0d050af5
+Extension host agent listening on /tmp/code-94d937b4-7611-4c82-b864-619b0d050af5
+
+[21:59:50] 
+
+
+
+
+[21:59:50] Extension host agent started.
+[21:59:51] [<unknown>][4e2dc2d8][ExtensionHostConnection] New connection established.
+[21:59:51] [<unknown>][60804373][ManagementConnection] New connection established.
+[21:59:56] [<unknown>][60804373][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[21:59:57] [<unknown>][27db1c3e][ManagementConnection] New connection established.
+[21:59:57] [<unknown>][287bfea3][ExtensionHostConnection] New connection established.
+[21:59:59] [<unknown>][4e2dc2d8][ExtensionHostConnection] <1385> Launched Extension Host Process.
+[21:59:59] [<unknown>][287bfea3][ExtensionHostConnection] <1387> Launched Extension Host Process.
+[22:00:12] [File Watcher] Unexpected error: inotify_add_watch on '/home/ubuntu/.vscode-server/data/logs/20241025T034821/exthost2' failed: No such file or directory (EUNKNOWN) (path: /home/ubuntu)
+[22:00:12] [File Watcher (universal)] inotify_add_watch on '/home/ubuntu/.vscode-server/data/logs/20241025T034821/exthost2' failed: No such file or directory
+New EH opened, aborting shutdown
+[22:04:50] New EH opened, aborting shutdown
+[22:09:45] [<unknown>][4770cb8d][ManagementConnection] New connection established.
+[22:09:45] [<unknown>][d6ff7d05][ExtensionHostConnection] New connection established.
+[22:09:45] [<unknown>][d6ff7d05][ExtensionHostConnection] <3230> Launched Extension Host Process.
+[22:10:12] [<unknown>][27db1c3e][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...

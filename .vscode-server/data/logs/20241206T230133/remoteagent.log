@@ -1,0 +1,20 @@
+2024-12-06 23:01:33.847 [info] 
+
+
+
+
+2024-12-06 23:01:33.921 [info] Extension host agent started.
+2024-12-06 23:01:34.132 [info] [<unknown>][e0cd5d26][ExtensionHostConnection] New connection established.
+2024-12-06 23:01:34.150 [info] [<unknown>][0a84f3ab][ManagementConnection] New connection established.
+2024-12-06 23:01:36.676 [info] [<unknown>][e0cd5d26][ExtensionHostConnection] <1545> Launched Extension Host Process.
+2024-12-06 23:01:48.402 [info] [<unknown>][0a84f3ab][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-06 23:01:48.500 [info] [<unknown>][e0cd5d26][ExtensionHostConnection] <1545> Extension Host Process exited with code: 0, signal: null.
+2024-12-06 23:01:48.502 [info] Cancelling previous shutdown timeout
+2024-12-06 23:01:48.503 [info] Last EH closed, waiting before shutting down
+2024-12-06 23:01:50.190 [info] [<unknown>][17d83948][ManagementConnection] New connection established.
+2024-12-06 23:01:50.197 [info] [<unknown>][8b99acda][ExtensionHostConnection] New connection established.
+2024-12-06 23:01:50.211 [info] [<unknown>][8b99acda][ExtensionHostConnection] <3012> Launched Extension Host Process.
+2024-12-06 23:06:48.504 [info] New EH opened, aborting shutdown
+2024-12-06 23:11:48.993 [info] [<unknown>][17d83948][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-06 23:11:49.140 [info] [<unknown>][8b99acda][ExtensionHostConnection] <3012> Extension Host Process exited with code: 0, signal: null.
+2024-12-06 23:11:49.141 [info] Last EH closed, waiting before shutting down

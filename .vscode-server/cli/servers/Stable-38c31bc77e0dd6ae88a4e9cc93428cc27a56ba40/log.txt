@@ -1,0 +1,23 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to /tmp/code-c6bbfe02-5c06-42f0-88ab-bd1e224b9a51
+Extension host agent listening on /tmp/code-c6bbfe02-5c06-42f0-88ab-bd1e224b9a51
+
+[21:47:32] 
+
+
+
+
+[21:47:33] Extension host agent started.
+[21:47:33] [<unknown>][e6605092][ManagementConnection] New connection established.
+[21:47:33] [<unknown>][067f1267][ExtensionHostConnection] New connection established.
+[21:57:37] [<unknown>][067f1267][ExtensionHostConnection] <1353> Launched Extension Host Process.
+[21:57:42] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/ubuntu/.vscode-server/data/logs/20241017T170507/exthost2/vscode.github' failed: No such file or directory (EUNKNOWN) (path: /home/ubuntu)
+[21:57:42] [File Watcher (universal)] inotify_add_watch on '/home/ubuntu/.vscode-server/data/logs/20241017T170507/exthost2/vscode.github' failed: No such file or directory
+New EH opened, aborting shutdown
+[22:02:32] New EH opened, aborting shutdown

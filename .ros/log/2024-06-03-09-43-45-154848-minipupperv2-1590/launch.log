@@ -1,0 +1,47 @@
+1717407825.1580145 [INFO] [launch]: All log files can be found below /home/ubuntu/.ros/log/2024-06-03-09-43-45-154848-minipupperv2-1590
+1717407825.1588027 [INFO] [launch]: Default logging verbosity is set to INFO
+1717407829.1681781 [INFO] [robot_state_publisher-1]: process started with pid [1594]
+1717407829.1698551 [INFO] [quadruped_controller_node-2]: process started with pid [1596]
+1717407829.1713045 [INFO] [state_estimation_node-3]: process started with pid [1598]
+1717407829.1726036 [INFO] [ekf_node-4]: process started with pid [1600]
+1717407829.1742980 [INFO] [ekf_node-5]: process started with pid [1602]
+1717407829.1782677 [INFO] [servo_interface-6]: process started with pid [1605]
+1717407829.1814623 [INFO] [ldlidar_stl_ros2_node-7]: process started with pid [1622]
+1717407829.2001579 [robot_state_publisher-1] [INFO] [1717407829.195321271] [robot_state_publisher]: got segment base_inertia
+1717407829.2114601 [robot_state_publisher-1] [INFO] [1717407829.195888137] [robot_state_publisher]: got segment base_link
+1717407829.2124548 [robot_state_publisher-1] [INFO] [1717407829.196002888] [robot_state_publisher]: got segment imu_link
+1717407829.2149196 [robot_state_publisher-1] [INFO] [1717407829.196042645] [robot_state_publisher]: got segment lb1
+1717407829.2159564 [robot_state_publisher-1] [INFO] [1717407829.196075438] [robot_state_publisher]: got segment lb2
+1717407829.2171648 [robot_state_publisher-1] [INFO] [1717407829.196106214] [robot_state_publisher]: got segment lb3
+1717407829.2182899 [robot_state_publisher-1] [INFO] [1717407829.196137397] [robot_state_publisher]: got segment lbfoot
+1717407829.2193427 [robot_state_publisher-1] [INFO] [1717407829.196168173] [robot_state_publisher]: got segment lf1
+1717407829.2221751 [robot_state_publisher-1] [INFO] [1717407829.196197985] [robot_state_publisher]: got segment lf2
+1717407829.2278094 [robot_state_publisher-1] [INFO] [1717407829.196228187] [robot_state_publisher]: got segment lf3
+1717407829.2359836 [robot_state_publisher-1] [INFO] [1717407829.196259425] [robot_state_publisher]: got segment lffoot
+1717407829.2380147 [robot_state_publisher-1] [INFO] [1717407829.196293756] [robot_state_publisher]: got segment lidar_link
+1717407829.2398601 [robot_state_publisher-1] [INFO] [1717407829.196328142] [robot_state_publisher]: got segment lpb1
+1717407829.2439003 [robot_state_publisher-1] [INFO] [1717407829.196359251] [robot_state_publisher]: got segment lpb2
+1717407829.2459860 [robot_state_publisher-1] [INFO] [1717407829.196390175] [robot_state_publisher]: got segment lpf1
+1717407829.2484591 [robot_state_publisher-1] [INFO] [1717407829.196420784] [robot_state_publisher]: got segment lpf2
+1717407829.2505493 [robot_state_publisher-1] [INFO] [1717407829.196450874] [robot_state_publisher]: got segment rb1
+1717407829.2549613 [robot_state_publisher-1] [INFO] [1717407829.196481206] [robot_state_publisher]: got segment rb2
+1717407829.2619467 [robot_state_publisher-1] [INFO] [1717407829.196513425] [robot_state_publisher]: got segment rb3
+1717407829.2634275 [robot_state_publisher-1] [INFO] [1717407829.196544349] [robot_state_publisher]: got segment rbfoot
+1717407829.2658002 [robot_state_publisher-1] [INFO] [1717407829.196575088] [robot_state_publisher]: got segment rf1
+1717407829.2765756 [robot_state_publisher-1] [INFO] [1717407829.196606604] [robot_state_publisher]: got segment rf2
+1717407829.2782924 [robot_state_publisher-1] [INFO] [1717407829.196636287] [robot_state_publisher]: got segment rf3
+1717407829.2792780 [robot_state_publisher-1] [INFO] [1717407829.196665581] [robot_state_publisher]: got segment rffoot
+1717407829.2838602 [robot_state_publisher-1] [INFO] [1717407829.196697505] [robot_state_publisher]: got segment rpb1
+1717407829.2908776 [robot_state_publisher-1] [INFO] [1717407829.196727336] [robot_state_publisher]: got segment rpb2
+1717407829.2925618 [robot_state_publisher-1] [INFO] [1717407829.196756723] [robot_state_publisher]: got segment rpf1
+1717407829.2957876 [robot_state_publisher-1] [INFO] [1717407829.196786128] [robot_state_publisher]: got segment rpf2
+1717407829.2969081 [robot_state_publisher-1] [INFO] [1717407829.196815792] [robot_state_publisher]: got segment yellow_plate
+1717407856.9787700 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+1717407857.0743077 [robot_state_publisher-1] [INFO] [1717407856.992566689] [rclcpp]: signal_handler(signum=2)
+1717407857.3142564 [INFO] [quadruped_controller_node-2]: process has finished cleanly [pid 1596]
+1717407857.3207695 [INFO] [ekf_node-5]: process has finished cleanly [pid 1602]
+1717407857.3478746 [INFO] [ldlidar_stl_ros2_node-7]: process has finished cleanly [pid 1622]
+1717407857.3906894 [INFO] [robot_state_publisher-1]: process has finished cleanly [pid 1594]
+1717407857.4114084 [ERROR] [servo_interface-6]: process has died [pid 1605, exit code -2, cmd '/home/ubuntu/ros2_ws/install/mini_pupper_driver/lib/mini_pupper_driver/servo_interface --ros-args -r __node:=servo_interface'].
+1717407857.4208333 [INFO] [ekf_node-4]: process has finished cleanly [pid 1600]
+1717407857.4288652 [INFO] [state_estimation_node-3]: process has finished cleanly [pid 1598]

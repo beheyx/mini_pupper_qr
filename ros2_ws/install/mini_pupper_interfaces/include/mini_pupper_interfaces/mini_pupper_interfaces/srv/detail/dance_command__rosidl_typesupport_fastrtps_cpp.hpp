@@ -1,0 +1,1 @@
+/home/ubuntu/ros2_ws/build/mini_pupper_interfaces/rosidl_typesupport_fastrtps_cpp/mini_pupper_interfaces/srv/detail/dance_command__rosidl_typesupport_fastrtps_cpp.hpp

@@ -1,0 +1,16 @@
+2024-12-07 04:09:26.584 [info] Extension host with pid 1408 started
+2024-12-07 04:09:26.584 [error] Error: EEXIST: file already exists, open '/home/ubuntu/.vscode-server/data/User/workspaceStorage/dae3fbbc41cf58099c029aa92833fdcf/vscode.lock'
+2024-12-07 04:09:26.647 [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/dae3fbbc41cf58099c029aa92833fdcf/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-12-07 04:09:26.735 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-12-07 04:09:26.740 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-12-07 04:09:26.742 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2024-12-07 04:09:28.427 [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/dae3fbbc41cf58099c029aa92833fdcf/vscode.lock': The pid 4057 appears to be gone.
+2024-12-07 04:09:28.428 [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/dae3fbbc41cf58099c029aa92833fdcf/vscode.lock': Deleting a stale lock.
+2024-12-07 04:09:28.547 [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/dae3fbbc41cf58099c029aa92833fdcf/vscode.lock': Lock acquired.
+2024-12-07 04:09:29.547 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2024-12-07 04:09:29.549 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2024-12-07 04:09:31.021 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-12-07 04:09:31.023 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-12-07 04:09:33.363 [info] Eager extensions activated
+2024-12-07 04:09:33.365 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-12-07 04:09:33.367 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'

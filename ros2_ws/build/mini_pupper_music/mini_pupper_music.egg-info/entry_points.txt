@@ -1,0 +1,3 @@
+[console_scripts]
+service = mini_pupper_music.music_server:main
+

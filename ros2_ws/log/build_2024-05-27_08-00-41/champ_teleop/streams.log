@@ -1,0 +1,43 @@
+[0.026s] Invoking command in '/home/ubuntu/ros2_ws/build/champ_teleop': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ubuntu/ros2_ws/src/champ/champ_teleop -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ubuntu/ros2_ws/install/champ_teleop
+[0.252s] -- The C compiler identification is GNU 11.4.0
+[0.487s] -- The CXX compiler identification is GNU 11.4.0
+[0.512s] -- Detecting C compiler ABI info
+[0.790s] -- Detecting C compiler ABI info - done
+[0.814s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.815s] -- Detecting C compile features
+[0.816s] -- Detecting C compile features - done
+[0.827s] -- Detecting CXX compiler ABI info
+[1.137s] -- Detecting CXX compiler ABI info - done
+[1.162s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.163s] -- Detecting CXX compile features
+[1.165s] -- Detecting CXX compile features - done
+[1.181s] -- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.846s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.108s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.565s] -- Configuring done
+[2.582s] -- Generating done
+[2.586s] -- Build files have been written to: /home/ubuntu/ros2_ws/build/champ_teleop
+[2.599s] Invoked command in '/home/ubuntu/ros2_ws/build/champ_teleop' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ubuntu/ros2_ws/src/champ/champ_teleop -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ubuntu/ros2_ws/install/champ_teleop
+[2.607s] Invoking command in '/home/ubuntu/ros2_ws/build/champ_teleop': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/ros2_ws/build/champ_teleop
+[2.735s] Invoked command in '/home/ubuntu/ros2_ws/build/champ_teleop' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/ros2_ws/build/champ_teleop
+[2.826s] Invoking command in '/home/ubuntu/ros2_ws/build/champ_teleop': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/ros2_ws/build/champ_teleop
+[2.848s] -- Install configuration: ""
+[2.850s] -- Execute custom install script
+[2.852s] -- Symlinking: /home/ubuntu/ros2_ws/install/champ_teleop/share/champ_teleop/launch/teleop.launch.py
+[2.881s] -- Symlinking: /home/ubuntu/ros2_ws/install/champ_teleop/lib/champ_teleop/champ_teleop.py
+[2.910s] -- Symlinking: /home/ubuntu/ros2_ws/install/champ_teleop/share/ament_index/resource_index/package_run_dependencies/champ_teleop
+[2.939s] -- Symlinking: /home/ubuntu/ros2_ws/install/champ_teleop/share/ament_index/resource_index/parent_prefix_path/champ_teleop
+[2.974s] -- Symlinking: /home/ubuntu/ros2_ws/install/champ_teleop/share/champ_teleop/environment/ament_prefix_path.sh
+[3.003s] -- Symlinking: /home/ubuntu/ros2_ws/install/champ_teleop/share/champ_teleop/environment/ament_prefix_path.dsv
+[3.031s] -- Symlinking: /home/ubuntu/ros2_ws/install/champ_teleop/share/champ_teleop/environment/path.sh
+[3.061s] -- Symlinking: /home/ubuntu/ros2_ws/install/champ_teleop/share/champ_teleop/environment/path.dsv
+[3.089s] -- Symlinking: /home/ubuntu/ros2_ws/install/champ_teleop/share/champ_teleop/local_setup.bash
+[3.118s] -- Symlinking: /home/ubuntu/ros2_ws/install/champ_teleop/share/champ_teleop/local_setup.sh
+[3.147s] -- Symlinking: /home/ubuntu/ros2_ws/install/champ_teleop/share/champ_teleop/local_setup.zsh
+[3.175s] -- Symlinking: /home/ubuntu/ros2_ws/install/champ_teleop/share/champ_teleop/local_setup.dsv
+[3.204s] -- Symlinking: /home/ubuntu/ros2_ws/install/champ_teleop/share/champ_teleop/package.dsv
+[3.233s] -- Symlinking: /home/ubuntu/ros2_ws/install/champ_teleop/share/ament_index/resource_index/packages/champ_teleop
+[3.262s] -- Symlinking: /home/ubuntu/ros2_ws/install/champ_teleop/share/champ_teleop/cmake/champ_teleopConfig.cmake
+[3.291s] -- Symlinking: /home/ubuntu/ros2_ws/install/champ_teleop/share/champ_teleop/cmake/champ_teleopConfig-version.cmake
+[3.319s] -- Symlinking: /home/ubuntu/ros2_ws/install/champ_teleop/share/champ_teleop/package.xml
+[3.354s] Invoked command in '/home/ubuntu/ros2_ws/build/champ_teleop' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/ros2_ws/build/champ_teleop

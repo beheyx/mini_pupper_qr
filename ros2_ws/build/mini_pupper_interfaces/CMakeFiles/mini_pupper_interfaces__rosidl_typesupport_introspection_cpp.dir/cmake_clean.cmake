@@ -1,0 +1,21 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/mini_pupper_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/mini_pupper_interfaces/srv/detail/dance_command__type_support.cpp.o"
+  "CMakeFiles/mini_pupper_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/mini_pupper_interfaces/srv/detail/dance_command__type_support.cpp.o.d"
+  "CMakeFiles/mini_pupper_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/mini_pupper_interfaces/srv/detail/play_music__type_support.cpp.o"
+  "CMakeFiles/mini_pupper_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/mini_pupper_interfaces/srv/detail/play_music__type_support.cpp.o.d"
+  "CMakeFiles/mini_pupper_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/mini_pupper_interfaces/srv/detail/stop_music__type_support.cpp.o"
+  "CMakeFiles/mini_pupper_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/mini_pupper_interfaces/srv/detail/stop_music__type_support.cpp.o.d"
+  "libmini_pupper_interfaces__rosidl_typesupport_introspection_cpp.pdb"
+  "libmini_pupper_interfaces__rosidl_typesupport_introspection_cpp.so"
+  "rosidl_typesupport_introspection_cpp/mini_pupper_interfaces/srv/detail/dance_command__rosidl_typesupport_introspection_cpp.hpp"
+  "rosidl_typesupport_introspection_cpp/mini_pupper_interfaces/srv/detail/dance_command__type_support.cpp"
+  "rosidl_typesupport_introspection_cpp/mini_pupper_interfaces/srv/detail/play_music__rosidl_typesupport_introspection_cpp.hpp"
+  "rosidl_typesupport_introspection_cpp/mini_pupper_interfaces/srv/detail/play_music__type_support.cpp"
+  "rosidl_typesupport_introspection_cpp/mini_pupper_interfaces/srv/detail/stop_music__rosidl_typesupport_introspection_cpp.hpp"
+  "rosidl_typesupport_introspection_cpp/mini_pupper_interfaces/srv/detail/stop_music__type_support.cpp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/mini_pupper_interfaces__rosidl_typesupport_introspection_cpp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

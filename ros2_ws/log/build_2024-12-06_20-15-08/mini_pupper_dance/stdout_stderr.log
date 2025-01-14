@@ -1,0 +1,20 @@
+running develop
+running egg_info
+writing mini_pupper_dance.egg-info/PKG-INFO
+writing dependency_links to mini_pupper_dance.egg-info/dependency_links.txt
+writing entry points to mini_pupper_dance.egg-info/entry_points.txt
+writing requirements to mini_pupper_dance.egg-info/requires.txt
+writing top-level names to mini_pupper_dance.egg-info/top_level.txt
+reading manifest file 'mini_pupper_dance.egg-info/SOURCES.txt'
+writing manifest file 'mini_pupper_dance.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ubuntu/ros2_ws/install/mini_pupper_dance/lib/python3.10/site-packages/mini-pupper-dance.egg-link (link to .)
+Installing client script to /home/ubuntu/ros2_ws/install/mini_pupper_dance/lib/mini_pupper_dance
+Installing pose_controller script to /home/ubuntu/ros2_ws/install/mini_pupper_dance/lib/mini_pupper_dance
+Installing service script to /home/ubuntu/ros2_ws/install/mini_pupper_dance/lib/mini_pupper_dance
+
+Installed /home/ubuntu/ros2_ws/build/mini_pupper_dance
+running symlink_data
+symbolically linking /home/ubuntu/ros2_ws/build/mini_pupper_dance/resource/mini_pupper_dance -> /home/ubuntu/ros2_ws/install/mini_pupper_dance/share/ament_index/resource_index/packages
+symbolically linking /home/ubuntu/ros2_ws/build/mini_pupper_dance/package.xml -> /home/ubuntu/ros2_ws/install/mini_pupper_dance/share/mini_pupper_dance
+symbolically linking /home/ubuntu/ros2_ws/build/mini_pupper_dance/launch/dance.launch.py -> /home/ubuntu/ros2_ws/install/mini_pupper_dance/share/mini_pupper_dance

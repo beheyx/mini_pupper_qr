@@ -1,0 +1,35 @@
+[INFO] [1718698320.930214679] [robot_state_publisher]: got segment Board_PCB
+[INFO] [1718698320.932687660] [robot_state_publisher]: got segment Board_connectors_1
+[INFO] [1718698320.933290957] [robot_state_publisher]: got segment Board_connectors_2
+[INFO] [1718698320.933365086] [robot_state_publisher]: got segment Body_front
+[INFO] [1718698320.933400216] [robot_state_publisher]: got segment Shell_Side
+[INFO] [1718698320.933431734] [robot_state_publisher]: got segment base_inertia
+[INFO] [1718698320.933876994] [robot_state_publisher]: got segment base_link
+[INFO] [1718698320.933962957] [robot_state_publisher]: got segment imu_link
+[INFO] [1718698320.934002549] [robot_state_publisher]: got segment lb1
+[INFO] [1718698320.934036494] [robot_state_publisher]: got segment lb2
+[INFO] [1718698320.934068179] [robot_state_publisher]: got segment lb3
+[INFO] [1718698320.934097827] [robot_state_publisher]: got segment lbfoot
+[INFO] [1718698320.934640197] [robot_state_publisher]: got segment lf1
+[INFO] [1718698320.934687531] [robot_state_publisher]: got segment lf2
+[INFO] [1718698320.934719253] [robot_state_publisher]: got segment lf3
+[INFO] [1718698320.935080549] [robot_state_publisher]: got segment lffoot
+[INFO] [1718698320.935127068] [robot_state_publisher]: got segment lidar_link
+[INFO] [1718698320.935278957] [robot_state_publisher]: got segment lpb1
+[INFO] [1718698320.935323901] [robot_state_publisher]: got segment lpb2
+[INFO] [1718698320.935464957] [robot_state_publisher]: got segment lpf1
+[INFO] [1718698320.935715457] [robot_state_publisher]: got segment lpf2
+[INFO] [1718698320.935754438] [robot_state_publisher]: got segment rb1
+[INFO] [1718698320.935785975] [robot_state_publisher]: got segment rb2
+[INFO] [1718698320.935815531] [robot_state_publisher]: got segment rb3
+[INFO] [1718698320.935844197] [robot_state_publisher]: got segment rbfoot
+[INFO] [1718698320.936300086] [robot_state_publisher]: got segment rf1
+[INFO] [1718698320.936351994] [robot_state_publisher]: got segment rf2
+[INFO] [1718698320.936386901] [robot_state_publisher]: got segment rf3
+[INFO] [1718698320.936417901] [robot_state_publisher]: got segment rffoot
+[INFO] [1718698320.936447771] [robot_state_publisher]: got segment rpb1
+[INFO] [1718698320.936477234] [robot_state_publisher]: got segment rpb2
+[INFO] [1718698320.936506753] [robot_state_publisher]: got segment rpf1
+[INFO] [1718698320.936536179] [robot_state_publisher]: got segment rpf2
+[WARN] [1718698323.539647352] [robot_state_publisher]: Moved backwards in time, re-publishing joint transforms!
+[INFO] [1718700610.725478905] [rclcpp]: signal_handler(signum=2)

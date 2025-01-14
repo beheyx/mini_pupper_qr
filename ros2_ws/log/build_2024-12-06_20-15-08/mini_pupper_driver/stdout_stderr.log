@@ -1,0 +1,23 @@
+running develop
+running egg_info
+writing mini_pupper_driver.egg-info/PKG-INFO
+writing dependency_links to mini_pupper_driver.egg-info/dependency_links.txt
+writing entry points to mini_pupper_driver.egg-info/entry_points.txt
+writing requirements to mini_pupper_driver.egg-info/requires.txt
+writing top-level names to mini_pupper_driver.egg-info/top_level.txt
+reading manifest file 'mini_pupper_driver.egg-info/SOURCES.txt'
+writing manifest file 'mini_pupper_driver.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ubuntu/ros2_ws/install/mini_pupper_driver/lib/python3.10/site-packages/mini-pupper-driver.egg-link (link to .)
+Installing display_interface script to /home/ubuntu/ros2_ws/install/mini_pupper_driver/lib/mini_pupper_driver
+Installing imu_interface script to /home/ubuntu/ros2_ws/install/mini_pupper_driver/lib/mini_pupper_driver
+Installing servo_interface script to /home/ubuntu/ros2_ws/install/mini_pupper_driver/lib/mini_pupper_driver
+
+Installed /home/ubuntu/ros2_ws/build/mini_pupper_driver
+running symlink_data
+symbolically linking /home/ubuntu/ros2_ws/build/mini_pupper_driver/resource/mini_pupper_driver -> /home/ubuntu/ros2_ws/install/mini_pupper_driver/share/ament_index/resource_index/packages
+symbolically linking /home/ubuntu/ros2_ws/build/mini_pupper_driver/package.xml -> /home/ubuntu/ros2_ws/install/mini_pupper_driver/share/mini_pupper_driver
+symbolically linking /home/ubuntu/ros2_ws/build/mini_pupper_driver/launch/imu_interface.launch.py -> /home/ubuntu/ros2_ws/install/mini_pupper_driver/share/mini_pupper_driver/launch
+symbolically linking /home/ubuntu/ros2_ws/build/mini_pupper_driver/launch/lidar_ld06.launch.py -> /home/ubuntu/ros2_ws/install/mini_pupper_driver/share/mini_pupper_driver/launch
+symbolically linking /home/ubuntu/ros2_ws/build/mini_pupper_driver/launch/display_interface.launch.py -> /home/ubuntu/ros2_ws/install/mini_pupper_driver/share/mini_pupper_driver/launch
+symbolically linking /home/ubuntu/ros2_ws/build/mini_pupper_driver/launch/servo_interface.launch.py -> /home/ubuntu/ros2_ws/install/mini_pupper_driver/share/mini_pupper_driver/launch

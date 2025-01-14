@@ -1,0 +1,12 @@
+2024-11-22 23:12:19.090 [info] 
+
+
+
+
+2024-11-22 23:12:19.186 [info] Extension host agent started.
+2024-11-22 23:12:19.701 [info] [<unknown>][9504dc16][ExtensionHostConnection] New connection established.
+2024-11-22 23:12:19.743 [info] [<unknown>][eed46a51][ManagementConnection] New connection established.
+2024-11-22 23:12:25.226 [info] [<unknown>][9504dc16][ExtensionHostConnection] <1414> Launched Extension Host Process.
+2024-11-22 23:12:33.237 [error] [File Watcher] Unexpected error: inotify_add_watch on '/home/ubuntu/.vscode-server/data/logs/20241025T181059/exthost1/vscode.json-language-features' failed: No such file or directory (EUNKNOWN) (path: /home/ubuntu)
+2024-11-22 23:12:33.242 [error] [File Watcher (universal)] inotify_add_watch on '/home/ubuntu/.vscode-server/data/logs/20241025T181059/exthost1/vscode.json-language-features' failed: No such file or directory
+2024-11-22 23:17:19.189 [info] New EH opened, aborting shutdown

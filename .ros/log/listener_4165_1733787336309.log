@@ -1,0 +1,4 @@
+[INFO] [1733787345.945643884] [listener_discovery_server]: I heard: [Hello World: 1]
+[INFO] [1733787346.947137928] [listener_discovery_server]: I heard: [Hello World: 2]
+[INFO] [1733787347.945175300] [listener_discovery_server]: I heard: [Hello World: 3]
+[INFO] [1733787348.446616898] [rclcpp]: signal_handler(signum=2)

@@ -1,0 +1,6 @@
+Listening on 127.0.0.1:38879
+[2024-10-31 22:09:45] info Disposed of connection to running server.
+looking for token 40984d02-41d4-414b-99b8-f35167400f73, got Some("40984d02-41d4-414b-99b8-f35167400f73")
+[2024-10-31 22:09:45] info Checking /home/ubuntu/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/log.txt and /home/ubuntu/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/pid.txt for a running server...
+[2024-10-31 22:09:45] info Found running server (pid=1183)
+[2024-10-31 22:47:47] info Disposed of connection to running server.

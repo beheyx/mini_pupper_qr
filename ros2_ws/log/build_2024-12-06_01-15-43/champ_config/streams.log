@@ -1,0 +1,44 @@
+[0.148s] Invoking command in '/home/ubuntu/ros2_ws/build/champ_config': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ros2_ws/install/mini_pupper_music:/home/ubuntu/ros2_ws/install/mini_pupper_dance:/home/ubuntu/ros2_ws/install/mini_pupper_driver:/opt/ros/humble /usr/bin/cmake /home/ubuntu/ros2_ws/src/champ/champ/champ_config -DCMAKE_INSTALL_PREFIX=/home/ubuntu/ros2_ws/install/champ_config
+[0.258s] -- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.177s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.558s] -- Configuring done
+[2.818s] -- Generating done
+[2.828s] -- Build files have been written to: /home/ubuntu/ros2_ws/build/champ_config
+[2.843s] Invoked command in '/home/ubuntu/ros2_ws/build/champ_config' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ros2_ws/install/mini_pupper_music:/home/ubuntu/ros2_ws/install/mini_pupper_dance:/home/ubuntu/ros2_ws/install/mini_pupper_driver:/opt/ros/humble /usr/bin/cmake /home/ubuntu/ros2_ws/src/champ/champ/champ_config -DCMAKE_INSTALL_PREFIX=/home/ubuntu/ros2_ws/install/champ_config
+[2.857s] Invoking command in '/home/ubuntu/ros2_ws/build/champ_config': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ros2_ws/install/mini_pupper_music:/home/ubuntu/ros2_ws/install/mini_pupper_dance:/home/ubuntu/ros2_ws/install/mini_pupper_driver:/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/ros2_ws/build/champ_config -- -j4 -l4
+[3.109s] Invoked command in '/home/ubuntu/ros2_ws/build/champ_config' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ros2_ws/install/mini_pupper_music:/home/ubuntu/ros2_ws/install/mini_pupper_dance:/home/ubuntu/ros2_ws/install/mini_pupper_driver:/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/ros2_ws/build/champ_config -- -j4 -l4
+[3.398s] Invoking command in '/home/ubuntu/ros2_ws/build/champ_config': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ros2_ws/install/mini_pupper_music:/home/ubuntu/ros2_ws/install/mini_pupper_dance:/home/ubuntu/ros2_ws/install/mini_pupper_driver:/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/ros2_ws/build/champ_config
+[3.479s] -- Install configuration: ""
+[3.483s] -- Execute custom install script
+[3.490s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/launch/bringup.launch.py
+[3.493s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/launch/gazebo.launch.py
+[3.496s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/launch/navigate.launch.py
+[3.499s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/launch/slam.launch.py
+[3.565s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/config/autonomy/navigation.yaml
+[3.567s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/config/autonomy/slam.yaml
+[3.570s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/config/gait/gait.yaml
+[3.574s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/config/joints/joints.yaml
+[3.579s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/config/links/links.yaml
+[3.587s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/maps/map.pgm
+[3.591s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/maps/map.yaml
+[3.594s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/maps/playground.pgm
+[3.597s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/maps/playground.yaml
+[3.605s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/worlds/default.world
+[3.639s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/worlds/outdoor.world
+[3.641s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/worlds/playground.world
+[3.644s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/ament_index/resource_index/package_run_dependencies/champ_config
+[3.646s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/ament_index/resource_index/parent_prefix_path/champ_config
+[3.649s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/environment/ament_prefix_path.sh
+[3.652s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/environment/ament_prefix_path.dsv
+[3.656s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/environment/path.sh
+[3.661s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/environment/path.dsv
+[3.665s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/local_setup.bash
+[3.670s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/local_setup.sh
+[3.673s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/local_setup.zsh
+[3.676s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/local_setup.dsv
+[3.680s] -- Symlinking: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/package.dsv
+[3.718s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/ament_index/resource_index/packages/champ_config
+[3.720s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/cmake/champ_configConfig.cmake
+[3.722s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/cmake/champ_configConfig-version.cmake
+[3.724s] -- Up-to-date symlink: /home/ubuntu/ros2_ws/install/champ_config/share/champ_config/package.xml
+[3.743s] Invoked command in '/home/ubuntu/ros2_ws/build/champ_config' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ros2_ws/install/mini_pupper_music:/home/ubuntu/ros2_ws/install/mini_pupper_dance:/home/ubuntu/ros2_ws/install/mini_pupper_driver:/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/ros2_ws/build/champ_config

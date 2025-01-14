@@ -1,0 +1,4 @@
+[INFO] [1733783750.999212996] [talker]: Publishing: 'Hello World: 1'
+[INFO] [1733783751.999130444] [talker]: Publishing: 'Hello World: 2'
+[INFO] [1733783752.999118228] [talker]: Publishing: 'Hello World: 3'
+[INFO] [1733783753.161826576] [rclcpp]: signal_handler(signum=2)

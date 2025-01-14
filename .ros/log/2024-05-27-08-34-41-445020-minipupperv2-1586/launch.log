@@ -1,0 +1,24 @@
+1716798881.4519980 [INFO] [launch]: All log files can be found below /home/ubuntu/.ros/log/2024-05-27-08-34-41-445020-minipupperv2-1586
+1716798881.4540479 [INFO] [launch]: Default logging verbosity is set to INFO
+1716798882.1699882 [INFO] [service-1]: process started with pid [1587]
+1716798884.7680316 [service-1] Traceback (most recent call last):
+1716798884.7686903 [service-1]   File "/home/ubuntu/ros2_ws/install/mini_pupper_music/lib/mini_pupper_music/service", line 33, in <module>
+1716798884.7703388 [service-1]     sys.exit(load_entry_point('mini-pupper-music', 'console_scripts', 'service')())
+1716798884.7710826 [service-1]   File "/home/ubuntu/ros2_ws/install/mini_pupper_music/lib/mini_pupper_music/service", line 25, in importlib_load_entry_point
+1716798884.7717218 [service-1]     return next(matches).load()
+1716798884.7722845 [service-1]   File "/usr/lib/python3.10/importlib/metadata/__init__.py", line 171, in load
+1716798884.7730343 [service-1]     module = import_module(match.group('module'))
+1716798884.7735958 [service-1]   File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+1716798884.7743125 [service-1]     return _bootstrap._gcd_import(name[level:], package, level)
+1716798884.7749019 [service-1]   File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+1716798884.7766395 [service-1]   File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+1716798884.7772894 [service-1]   File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+1716798884.7781065 [service-1]   File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+1716798884.7787437 [service-1]   File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+1716798884.7817602 [service-1]   File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+1716798884.7830777 [service-1]   File "/home/ubuntu/ros2_ws/build/mini_pupper_music/mini_pupper_music/music_server.py", line 21, in <module>
+1716798884.7860193 [service-1]     from .music_player import MusicPlayer
+1716798884.7872508 [service-1]   File "/home/ubuntu/ros2_ws/build/mini_pupper_music/mini_pupper_music/music_player.py", line 19, in <module>
+1716798884.7884552 [service-1]     import pyaudio
+1716798884.7895501 [service-1] ModuleNotFoundError: No module named 'pyaudio'
+1716798885.1113064 [ERROR] [service-1]: process has died [pid 1587, exit code 1, cmd '/home/ubuntu/ros2_ws/install/mini_pupper_music/lib/mini_pupper_music/service --ros-args -r __node:=music_server -r __ns:=/'].

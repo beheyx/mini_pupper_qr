@@ -1,0 +1,1 @@
+/home/ubuntu/ros2_ws/build/mini_pupper_slam/ament_cmake_environment_hooks/local_setup.zsh

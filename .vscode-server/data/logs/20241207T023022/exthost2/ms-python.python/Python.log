@@ -1,0 +1,93 @@
+2024-12-07 02:32:51.875 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-12-07 02:32:51.875 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-12-07 02:32:51.875 [info] Experiment 'pythonTestAdapter' is active
+2024-12-07 02:32:51.875 [info] Native locator: Refresh started
+2024-12-07 02:32:51.875 [info] Native locator: Refresh started
+2024-12-07 02:32:52.062 [info] Native locator: Refresh started
+2024-12-07 02:32:52.393 [info] Python interpreter path: /bin/python
+2024-12-07 02:32:53.128 [info] Native locator: Refresh finished in 3303 ms
+2024-12-07 02:32:53.161 [info] > pyenv which python
+2024-12-07 02:32:53.161 [info] cwd: .
+2024-12-07 02:32:56.208 [info] Starting Pylance language server.
+2024-12-07 02:34:19.913 [info] Native locator: Refresh started
+2024-12-07 02:34:20.286 [info] Native locator: Refresh finished in 370 ms
+2024-12-07 02:34:23.951 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots
+2024-12-07 02:34:23.951 [info] Python interpreter path: /usr/bin/python
+2024-12-07 02:34:25.800 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/movement_api.py
+2024-12-07 02:39:15.003 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 02:39:27.364 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 02:41:09.974 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 02:41:24.134 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 02:41:36.062 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 02:43:16.402 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/movement_api.py
+2024-12-07 02:43:41.363 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 02:44:19.109 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 02:44:55.936 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 02:45:10.685 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 02:45:30.800 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 02:45:44.123 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 02:46:23.603 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/movement_api.py
+2024-12-07 02:46:30.597 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/movement_api.py
+2024-12-07 02:46:44.744 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/movement_api.py
+2024-12-07 02:46:53.606 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/movement_api.py
+2024-12-07 02:47:00.947 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/movement_api.py
+2024-12-07 02:47:05.158 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 02:47:22.178 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 02:47:50.971 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/movement_api.py
+2024-12-07 02:48:18.454 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/movement_api.py
+2024-12-07 02:48:53.856 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/movement_api.py
+2024-12-07 02:49:03.910 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 02:49:30.412 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 02:51:32.912 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/movement_api.py
+2024-12-07 03:01:30.729 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/movement_api.py
+2024-12-07 03:02:36.817 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/movement_api.py
+2024-12-07 03:03:06.233 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 03:03:17.901 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 03:03:50.239 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/movement_api.py
+2024-12-07 03:06:05.819 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 03:06:45.199 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/movement_api.py
+2024-12-07 03:06:51.200 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 03:07:32.707 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/movement_api.py
+2024-12-07 03:07:39.098 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 03:07:41.550 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 03:07:57.213 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 03:11:24.788 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 03:11:37.621 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 03:12:33.876 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 03:12:51.839 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 03:12:56.035 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 03:14:19.466 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 03:17:47.705 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 03:20:15.823 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 03:20:29.043 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 03:20:50.610 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 03:21:39.278 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 03:21:51.878 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 03:24:53.596 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 03:25:13.708 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 03:25:45.970 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 03:26:07.878 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 03:28:33.762 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 03:31:38.994 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 03:33:33.307 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 03:34:22.211 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 03:35:06.631 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 03:35:33.713 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 03:35:42.690 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 03:35:55.878 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 03:36:32.504 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 03:37:22.657 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 03:37:57.496 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 03:38:11.166 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 03:38:14.625 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 03:40:02.688 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 03:44:14.941 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 04:03:24.565 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 04:04:05.860 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 04:04:11.250 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 04:04:33.932 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 04:05:03.681 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 04:05:29.587 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 04:06:11.215 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 04:06:26.720 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py
+2024-12-07 04:06:39.910 [info] Discover tests for workspace name: pots - uri: /home/ubuntu/pots/main.py

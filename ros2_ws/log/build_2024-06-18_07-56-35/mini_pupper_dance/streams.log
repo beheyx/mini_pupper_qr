@@ -1,0 +1,19 @@
+[3.185s] Invoking command in '/home/ubuntu/ros2_ws/build/mini_pupper_dance': AMENT_PREFIX_PATH=/home/ubuntu/ros2_ws/install/mini_pupper_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ubuntu/ros2_ws/install/mini_pupper_interfaces LD_LIBRARY_PATH=/home/ubuntu/ros2_ws/install/mini_pupper_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ubuntu/ros2_ws/build/mini_pupper_dance/prefix_override:/home/ubuntu/ros2_ws/install/mini_pupper_dance/lib/python3.10/site-packages:/home/ubuntu/ros2_ws/install/mini_pupper_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/ubuntu/ros2_ws/build/mini_pupper_dance/build --no-deps symlink_data
+[4.632s] running develop
+[5.359s] running egg_info
+[5.359s] writing mini_pupper_dance.egg-info/PKG-INFO
+[5.360s] writing dependency_links to mini_pupper_dance.egg-info/dependency_links.txt
+[5.361s] writing entry points to mini_pupper_dance.egg-info/entry_points.txt
+[5.362s] writing requirements to mini_pupper_dance.egg-info/requires.txt
+[5.363s] writing top-level names to mini_pupper_dance.egg-info/top_level.txt
+[5.371s] reading manifest file 'mini_pupper_dance.egg-info/SOURCES.txt'
+[5.376s] writing manifest file 'mini_pupper_dance.egg-info/SOURCES.txt'
+[5.382s] running build_ext
+[5.383s] Creating /home/ubuntu/ros2_ws/install/mini_pupper_dance/lib/python3.10/site-packages/mini-pupper-dance.egg-link (link to .)
+[5.387s] Installing client script to /home/ubuntu/ros2_ws/install/mini_pupper_dance/lib/mini_pupper_dance
+[5.387s] Installing pose_controller script to /home/ubuntu/ros2_ws/install/mini_pupper_dance/lib/mini_pupper_dance
+[5.388s] Installing service script to /home/ubuntu/ros2_ws/install/mini_pupper_dance/lib/mini_pupper_dance
+[5.390s] 
+[5.390s] Installed /home/ubuntu/ros2_ws/build/mini_pupper_dance
+[5.391s] running symlink_data
+[5.543s] Invoked command in '/home/ubuntu/ros2_ws/build/mini_pupper_dance' returned '0': AMENT_PREFIX_PATH=/home/ubuntu/ros2_ws/install/mini_pupper_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ubuntu/ros2_ws/install/mini_pupper_interfaces LD_LIBRARY_PATH=/home/ubuntu/ros2_ws/install/mini_pupper_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ubuntu/ros2_ws/build/mini_pupper_dance/prefix_override:/home/ubuntu/ros2_ws/install/mini_pupper_dance/lib/python3.10/site-packages:/home/ubuntu/ros2_ws/install/mini_pupper_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/ubuntu/ros2_ws/build/mini_pupper_dance/build --no-deps symlink_data

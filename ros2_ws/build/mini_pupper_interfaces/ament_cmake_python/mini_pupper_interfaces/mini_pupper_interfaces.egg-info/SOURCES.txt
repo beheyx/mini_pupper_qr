@@ -1,0 +1,10 @@
+setup.py
+mini_pupper_interfaces/__init__.py
+mini_pupper_interfaces.egg-info/PKG-INFO
+mini_pupper_interfaces.egg-info/SOURCES.txt
+mini_pupper_interfaces.egg-info/dependency_links.txt
+mini_pupper_interfaces.egg-info/top_level.txt
+mini_pupper_interfaces/srv/__init__.py
+mini_pupper_interfaces/srv/_dance_command.py
+mini_pupper_interfaces/srv/_play_music.py
+mini_pupper_interfaces/srv/_stop_music.py

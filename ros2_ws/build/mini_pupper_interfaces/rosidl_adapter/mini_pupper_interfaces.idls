@@ -1,0 +1,3 @@
+/home/ubuntu/ros2_ws/build/mini_pupper_interfaces/rosidl_adapter/mini_pupper_interfaces:srv/DanceCommand.idl
+/home/ubuntu/ros2_ws/build/mini_pupper_interfaces/rosidl_adapter/mini_pupper_interfaces:srv/PlayMusic.idl
+/home/ubuntu/ros2_ws/build/mini_pupper_interfaces/rosidl_adapter/mini_pupper_interfaces:srv/StopMusic.idl

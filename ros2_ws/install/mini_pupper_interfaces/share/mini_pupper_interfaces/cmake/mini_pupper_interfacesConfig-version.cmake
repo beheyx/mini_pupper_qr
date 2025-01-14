@@ -1,0 +1,1 @@
+/home/ubuntu/ros2_ws/build/mini_pupper_interfaces/ament_cmake_core/mini_pupper_interfacesConfig-version.cmake

@@ -1,0 +1,9 @@
+[INFO] [1733786165.964890531] [listener_discovery_server]: I heard: [Hello World: 6]
+[INFO] [1733786166.966304140] [listener_discovery_server]: I heard: [Hello World: 7]
+[INFO] [1733786167.968368607] [listener_discovery_server]: I heard: [Hello World: 8]
+[INFO] [1733786168.964707587] [listener_discovery_server]: I heard: [Hello World: 9]
+[INFO] [1733786169.966677582] [listener_discovery_server]: I heard: [Hello World: 10]
+[INFO] [1733786170.966380500] [listener_discovery_server]: I heard: [Hello World: 11]
+[INFO] [1733786171.966967404] [listener_discovery_server]: I heard: [Hello World: 12]
+[INFO] [1733786172.966456276] [listener_discovery_server]: I heard: [Hello World: 13]
+[INFO] [1733786173.134929315] [rclcpp]: signal_handler(signum=2)

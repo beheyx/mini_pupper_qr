@@ -1,0 +1,106 @@
+2024-12-07 02:32:54.058 [info] (Client) Pylance async client (2024.12.1) started with python extension (2024.20.0)
+2024-12-07 02:32:56.121 [info] [Info  - 2:32:55 AM] (5794) Server root directory: file:///home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2024-12-07 02:32:56.141 [info] [Info  - 2:32:56 AM] (5794) Pylance language server 2024.12.1 (pyright version 1.1.389, commit ce1325fc) starting
+2024-12-07 02:32:56.142 [info] [Info  - 2:32:56 AM] (5794) Starting service instance "pots"
+2024-12-07 02:32:56.410 [info] [Info  - 2:32:56 AM] (5794) Setting environmentName for service "pots": "3.10.12 (usr venv)"
+2024-12-07 02:32:56.412 [info] [Info  - 2:32:56 AM] (5794) Setting pythonPath for service "pots": "/bin/python"
+2024-12-07 02:32:56.414 [info] [Info  - 2:32:56 AM] (5794) No include entries specified; assuming /home/ubuntu/pots
+2024-12-07 02:32:56.418 [info] [Info  - 2:32:56 AM] (5794) Auto-excluding **/node_modules
+2024-12-07 02:32:56.419 [info] [Info  - 2:32:56 AM] (5794) Auto-excluding **/__pycache__
+2024-12-07 02:32:56.420 [info] [Info  - 2:32:56 AM] (5794) Auto-excluding **/.*
+2024-12-07 02:32:56.544 [info] [Info  - 2:32:56 AM] (5794) Assuming Python version 3.10.12.final.0
+2024-12-07 02:32:57.041 [info] [Info  - 2:32:57 AM] (5794) Found 1 source file
+2024-12-07 02:32:58.686 [info] [Info  - 2:32:58 AM] (5794) Background analysis(1) root directory: file:///home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2024-12-07 02:32:58.709 [info] [Info  - 2:32:58 AM] (5794) Background analysis(1) started
+2024-12-07 02:32:59.088 [info] [Info  - 2:32:59 AM] (5794) Indexer background runner(2) root directory: file:///home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist (index)
+2024-12-07 02:32:59.090 [info] [Info  - 2:32:59 AM] (5794) Indexing(2) started
+2024-12-07 02:33:01.760 [info] [Info  - 2:33:01 AM] (5794) [BG(1)] Long operation: parsing: file:///home/ubuntu/pots/movement_api.py (2273ms)
+2024-12-07 02:33:03.947 [info] [Info  - 2:33:03 AM] (5794) [BG(1)] Long operation: indexing: file:///home/ubuntu/pots/movement_api.py (4484ms)
+2024-12-07 02:33:13.324 [info] [Info  - 2:33:13 AM] (5794) [BG(1)] Long operation: checking: file:///home/ubuntu/pots/movement_api.py (9097ms)
+2024-12-07 02:33:13.332 [info] [Info  - 2:33:13 AM] (5794) [BG(1)] Long operation: analyzing: file:///home/ubuntu/pots/movement_api.py (9336ms)
+2024-12-07 02:33:14.204 [info] [Info  - 2:33:14 AM] (5794) [IDX(2)] Long operation: scan packages file:///home/ubuntu/pots (14137ms)
+2024-12-07 02:33:14.207 [info] [Info  - 2:33:14 AM] (5794) scanned(2) 286 files over 1 exec env
+2024-12-07 02:33:37.654 [info] [Info  - 2:33:37 AM] (5794) [IDX(2)] Long operation: index execution environment file:///home/ubuntu/pots (21969ms)
+2024-12-07 02:33:38.316 [info] [Info  - 2:33:38 AM] (5794) [IDX(2)] Long operation: index packages file:///home/ubuntu/pots (22780ms)
+2024-12-07 02:33:38.317 [info] [Info  - 2:33:38 AM] (5794) indexed(2) 286 files over 1 exec env
+2024-12-07 02:33:38.753 [info] [Info  - 2:33:38 AM] (5794) Indexing finished(2).
+2024-12-07 02:34:24.045 [info] [Info  - 2:34:24 AM] (5794) Setting environmentName for service "pots": "3.10.12 (usr venv)"
+2024-12-07 02:34:24.047 [info] [Info  - 2:34:24 AM] (5794) Setting pythonPath for service "pots": "/usr/bin/python"
+2024-12-07 02:34:24.048 [info] [Info  - 2:34:24 AM] (5794) No include entries specified; assuming /home/ubuntu/pots
+2024-12-07 02:34:24.049 [info] [Info  - 2:34:24 AM] (5794) Auto-excluding **/node_modules
+2024-12-07 02:34:24.050 [info] [Info  - 2:34:24 AM] (5794) Auto-excluding **/__pycache__
+2024-12-07 02:34:24.051 [info] [Info  - 2:34:24 AM] (5794) Auto-excluding **/.*
+2024-12-07 02:34:24.177 [info] [Info  - 2:34:24 AM] (5794) Assuming Python version 3.10.12.final.0
+2024-12-07 02:34:24.529 [info] [Info  - 2:34:24 AM] (5794) Found 1 source file
+2024-12-07 02:34:27.255 [info] [Info  - 2:34:27 AM] (5794) [BG(1)] Long operation: indexing: file:///home/ubuntu/pots/movement_api.py (2196ms)
+2024-12-07 02:34:28.257 [info] [Info  - 2:34:28 AM] (5794) Indexer background runner(3) root directory: file:///home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist (index)
+2024-12-07 02:34:28.268 [info] [Info  - 2:34:28 AM] (5794) Indexing(3) started
+2024-12-07 02:34:33.607 [info] [Info  - 2:34:33 AM] (5794) [IDX(3)] Long operation: scan packages file:///home/ubuntu/pots (4347ms)
+2024-12-07 02:34:33.617 [info] [Info  - 2:34:33 AM] (5794) scanned(3) 286 files over 1 exec env
+2024-12-07 02:34:33.859 [info] [Info  - 2:34:33 AM] (5794) [BG(1)] Long operation: checking: file:///home/ubuntu/pots/movement_api.py (6521ms)
+2024-12-07 02:34:33.887 [info] [Info  - 2:34:33 AM] (5794) [BG(1)] Long operation: analyzing: file:///home/ubuntu/pots/movement_api.py (6549ms)
+2024-12-07 02:34:34.919 [info] [Info  - 2:34:34 AM] (5794) Found 2 source files
+2024-12-07 02:34:35.424 [info] [Info  - 2:34:35 AM] (5794) indexed(3) 286 files over 1 exec env
+2024-12-07 02:34:35.955 [info] [Info  - 2:34:35 AM] (5794) Indexing finished(3).
+2024-12-07 02:34:40.183 [info] [Info  - 2:34:40 AM] (5794) [BG(1)] Long operation: checking: file:///home/ubuntu/pots/movement_api.py (4337ms)
+2024-12-07 02:34:40.185 [info] [Info  - 2:34:40 AM] (5794) [BG(1)] Long operation: analyzing: file:///home/ubuntu/pots/movement_api.py (4445ms)
+2024-12-07 02:36:53.098 [info] [Info  - 2:36:53 AM] (5794) Found 2 source files
+2024-12-07 02:36:59.998 [info] [Info  - 2:36:59 AM] (5794) [BG(1)] Long operation: checking: file:///home/ubuntu/pots/movement_api.py (5351ms)
+2024-12-07 02:36:59.999 [info] [Info  - 2:36:59 AM] (5794) [BG(1)] Long operation: analyzing: file:///home/ubuntu/pots/movement_api.py (5625ms)
+2024-12-07 02:41:21.942 [info] [Info  - 2:41:21 AM] (5794) Starting service instance "<default>"
+2024-12-07 02:41:22.341 [info] [Info  - 2:41:22 AM] (5794) Setting environmentName for service "<default>": "3.10.12 (usr venv)"
+2024-12-07 02:41:22.343 [info] [Info  - 2:41:22 AM] (5794) Setting pythonPath for service "<default>": "/usr/bin/python"
+2024-12-07 02:41:22.345 [info] [Info  - 2:41:22 AM] (5794) No include entries specified; assuming /<default workspace root>
+2024-12-07 02:41:22.348 [info] [Info  - 2:41:22 AM] (5794) Auto-excluding **/node_modules
+2024-12-07 02:41:22.348 [info] [Info  - 2:41:22 AM] (5794) Auto-excluding **/__pycache__
+2024-12-07 02:41:22.349 [info] [Info  - 2:41:22 AM] (5794) Auto-excluding **/.*
+2024-12-07 02:41:22.502 [info] [Info  - 2:41:22 AM] (5794) Assuming Python version 3.10.12.final.0
+2024-12-07 02:41:23.033 [info] [Error - 2:41:23 AM] (5794) File or directory "/<default workspace root>" does not exist.
+2024-12-07 02:41:23.036 [info] [Info  - 2:41:23 AM] (5794) No source files found.
+2024-12-07 02:41:24.377 [info] [Info  - 2:41:24 AM] (5794) Background analysis(4) root directory: file:///home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2024-12-07 02:41:24.391 [info] [Info  - 2:41:24 AM] (5794) Background analysis(4) started
+2024-12-07 02:43:19.343 [info] [Info  - 2:43:19 AM] (5794) [BG(1)] Long operation: checking: file:///home/ubuntu/pots/movement_api.py (2909ms)
+2024-12-07 02:43:19.345 [info] [Info  - 2:43:19 AM] (5794) [BG(1)] Long operation: analyzing: file:///home/ubuntu/pots/movement_api.py (2910ms)
+2024-12-07 02:46:18.397 [info] [Info  - 2:46:18 AM] (5794) [BG(1)] Long operation: checking: file:///home/ubuntu/pots/movement_api.py (2819ms)
+2024-12-07 02:46:18.398 [info] [Info  - 2:46:18 AM] (5794) [BG(1)] Long operation: analyzing: file:///home/ubuntu/pots/movement_api.py (2910ms)
+2024-12-07 02:46:56.135 [info] [Info  - 2:46:56 AM] (5794) [BG(1)] Long operation: analyzing: file:///home/ubuntu/pots/movement_api.py (2011ms)
+2024-12-07 02:48:56.096 [info] [Info  - 2:48:56 AM] (5794) [BG(1)] Long operation: checking: file:///home/ubuntu/pots/movement_api.py (2132ms)
+2024-12-07 02:48:56.096 [info] [Info  - 2:48:56 AM] (5794) [BG(1)] Long operation: analyzing: file:///home/ubuntu/pots/movement_api.py (2133ms)
+2024-12-07 02:51:35.667 [info] [Info  - 2:51:35 AM] (5794) [BG(1)] Long operation: checking: file:///home/ubuntu/pots/movement_api.py (2687ms)
+2024-12-07 02:51:35.667 [info] [Info  - 2:51:35 AM] (5794) [BG(1)] Long operation: analyzing: file:///home/ubuntu/pots/movement_api.py (2688ms)
+2024-12-07 03:01:25.029 [info] [Info  - 3:01:25 AM] (5794) [BG(1)] Long operation: checking: file:///home/ubuntu/pots/movement_api.py (2825ms)
+2024-12-07 03:01:25.031 [info] [Info  - 3:01:25 AM] (5794) [BG(1)] Long operation: analyzing: file:///home/ubuntu/pots/movement_api.py (2922ms)
+2024-12-07 03:02:39.940 [info] [Info  - 3:02:39 AM] (5794) [BG(1)] Long operation: checking: file:///home/ubuntu/pots/movement_api.py (3024ms)
+2024-12-07 03:02:39.941 [info] [Info  - 3:02:39 AM] (5794) [BG(1)] Long operation: analyzing: file:///home/ubuntu/pots/movement_api.py (3025ms)
+2024-12-07 03:06:44.535 [info] [Info  - 3:06:44 AM] (5794) [BG(1)] Long operation: checking: file:///home/ubuntu/pots/movement_api.py (2037ms)
+2024-12-07 03:06:44.538 [info] [Info  - 3:06:44 AM] (5794) [BG(1)] Long operation: analyzing: file:///home/ubuntu/pots/movement_api.py (2150ms)
+2024-12-07 03:07:12.815 [info] [Info  - 3:07:12 AM] (5794) [BG(1)] Long operation: checking: file:///home/ubuntu/pots/movement_api.py (2051ms)
+2024-12-07 03:07:12.815 [info] [Info  - 3:07:12 AM] (5794) [BG(1)] Long operation: analyzing: file:///home/ubuntu/pots/movement_api.py (2097ms)
+2024-12-07 03:11:14.783 [info] [Info  - 3:11:14 AM] (5794) [BG(1)] Long operation: checking: file:///home/ubuntu/pots/main.py (6173ms)
+2024-12-07 03:11:14.786 [info] [Info  - 3:11:14 AM] (5794) [BG(1)] Long operation: analyzing: file:///home/ubuntu/pots/main.py (6198ms)
+2024-12-07 03:11:28.855 [info] [Info  - 3:11:28 AM] (5794) [BG(1)] Long operation: checking: file:///home/ubuntu/pots/main.py (3963ms)
+2024-12-07 03:11:28.859 [info] [Info  - 3:11:28 AM] (5794) [BG(1)] Long operation: analyzing: file:///home/ubuntu/pots/main.py (3965ms)
+2024-12-07 03:25:33.248 [info] [Info  - 3:25:33 AM] (5794) [BG(1)] Long operation: checking: file:///home/ubuntu/pots/main.py (3266ms)
+2024-12-07 03:25:33.250 [info] [Info  - 3:25:33 AM] (5794) [BG(1)] Long operation: analyzing: file:///home/ubuntu/pots/main.py (3305ms)
+2024-12-07 03:25:45.938 [info] [Info  - 3:25:45 AM] (5794) [BG(1)] Long operation: checking: file:///home/ubuntu/pots/main.py (2035ms)
+2024-12-07 03:25:45.940 [info] [Info  - 3:25:45 AM] (5794) [BG(1)] Long operation: analyzing: file:///home/ubuntu/pots/main.py (2082ms)
+2024-12-07 03:33:14.276 [info] [Info  - 3:33:14 AM] (5794) [BG(1)] Long operation: checking: file:///home/ubuntu/pots/main.py (2590ms)
+2024-12-07 03:33:14.277 [info] [Info  - 3:33:14 AM] (5794) [BG(1)] Long operation: analyzing: file:///home/ubuntu/pots/main.py (2637ms)
+2024-12-07 03:34:38.105 [info] [Info  - 3:34:38 AM] (5794) [BG(1)] Long operation: checking: file:///home/ubuntu/pots/main.py (2586ms)
+2024-12-07 03:34:38.116 [info] [Info  - 3:34:38 AM] (5794) [BG(1)] Long operation: analyzing: file:///home/ubuntu/pots/main.py (2655ms)
+2024-12-07 03:34:51.057 [info] [Info  - 3:34:51 AM] (5794) [BG(1)] Long operation: checking: file:///home/ubuntu/pots/main.py (2422ms)
+2024-12-07 03:34:51.059 [info] [Info  - 3:34:51 AM] (5794) [BG(1)] Long operation: analyzing: file:///home/ubuntu/pots/main.py (2457ms)
+2024-12-07 03:34:53.639 [info] [Info  - 3:34:53 AM] (5794) [BG(1)] Long operation: checking: file:///home/ubuntu/pots/main.py (2250ms)
+2024-12-07 03:34:53.640 [info] [Info  - 3:34:53 AM] (5794) [BG(1)] Long operation: analyzing: file:///home/ubuntu/pots/main.py (2271ms)
+2024-12-07 03:35:51.668 [info] [Info  - 3:35:51 AM] (5794) [BG(1)] Long operation: checking: file:///home/ubuntu/pots/main.py (2151ms)
+2024-12-07 03:35:51.670 [info] [Info  - 3:35:51 AM] (5794) [BG(1)] Long operation: analyzing: file:///home/ubuntu/pots/main.py (2186ms)
+2024-12-07 03:36:06.703 [info] [Info  - 3:36:06 AM] (5794) [BG(1)] Long operation: analyzing: file:///home/ubuntu/pots/main.py (2010ms)
+2024-12-07 03:36:23.596 [info] [Info  - 3:36:23 AM] (5794) [BG(1)] Long operation: checking: file:///home/ubuntu/pots/main.py (2030ms)
+2024-12-07 03:36:23.597 [info] [Info  - 3:36:23 AM] (5794) [BG(1)] Long operation: analyzing: file:///home/ubuntu/pots/main.py (2067ms)
+2024-12-07 03:37:59.633 [info] [Info  - 3:37:59 AM] (5794) [BG(1)] Long operation: checking: file:///home/ubuntu/pots/main.py (2358ms)
+2024-12-07 03:37:59.636 [info] [Info  - 3:37:59 AM] (5794) [BG(1)] Long operation: analyzing: file:///home/ubuntu/pots/main.py (2438ms)
+2024-12-07 03:38:31.199 [info] [Info  - 3:38:31 AM] (5794) [BG(1)] Long operation: analyzing: file:///home/ubuntu/pots/main.py (2019ms)
+2024-12-07 03:44:18.260 [info] [Info  - 3:44:18 AM] (5794) [BG(1)] Long operation: checking: file:///home/ubuntu/pots/main.py (3259ms)
+2024-12-07 03:44:18.261 [info] [Info  - 3:44:18 AM] (5794) [BG(1)] Long operation: analyzing: file:///home/ubuntu/pots/main.py (3260ms)
+2024-12-07 04:03:27.766 [info] [Info  - 4:03:27 AM] (5794) [BG(1)] Long operation: checking: file:///home/ubuntu/pots/main.py (3033ms)
+2024-12-07 04:03:27.769 [info] [Info  - 4:03:27 AM] (5794) [BG(1)] Long operation: analyzing: file:///home/ubuntu/pots/main.py (3083ms)

@@ -1,0 +1,39 @@
+running develop
+Removing /home/ubuntu/ros2_ws/install/mini_pupper_music/lib/python3.10/site-packages/mini-pupper-music.egg-link (link to .)
+running egg_info
+writing ../../../build/mini_pupper_music/mini_pupper_music.egg-info/PKG-INFO
+writing dependency_links to ../../../build/mini_pupper_music/mini_pupper_music.egg-info/dependency_links.txt
+writing entry points to ../../../build/mini_pupper_music/mini_pupper_music.egg-info/entry_points.txt
+writing requirements to ../../../build/mini_pupper_music/mini_pupper_music.egg-info/requires.txt
+writing top-level names to ../../../build/mini_pupper_music/mini_pupper_music.egg-info/top_level.txt
+reading manifest file '../../../build/mini_pupper_music/mini_pupper_music.egg-info/SOURCES.txt'
+writing manifest file '../../../build/mini_pupper_music/mini_pupper_music.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ubuntu/ros2_ws/build/mini_pupper_music/build
+creating /home/ubuntu/ros2_ws/build/mini_pupper_music/build/lib
+creating /home/ubuntu/ros2_ws/build/mini_pupper_music/build/lib/mini_pupper_music
+copying mini_pupper_music/__init__.py -> /home/ubuntu/ros2_ws/build/mini_pupper_music/build/lib/mini_pupper_music
+copying mini_pupper_music/music_player.py -> /home/ubuntu/ros2_ws/build/mini_pupper_music/build/lib/mini_pupper_music
+copying mini_pupper_music/music_server.py -> /home/ubuntu/ros2_ws/build/mini_pupper_music/build/lib/mini_pupper_music
+running install
+running install_lib
+creating /home/ubuntu/ros2_ws/install/mini_pupper_music/lib/python3.10/site-packages/mini_pupper_music
+copying /home/ubuntu/ros2_ws/build/mini_pupper_music/build/lib/mini_pupper_music/__init__.py -> /home/ubuntu/ros2_ws/install/mini_pupper_music/lib/python3.10/site-packages/mini_pupper_music
+copying /home/ubuntu/ros2_ws/build/mini_pupper_music/build/lib/mini_pupper_music/music_player.py -> /home/ubuntu/ros2_ws/install/mini_pupper_music/lib/python3.10/site-packages/mini_pupper_music
+copying /home/ubuntu/ros2_ws/build/mini_pupper_music/build/lib/mini_pupper_music/music_server.py -> /home/ubuntu/ros2_ws/install/mini_pupper_music/lib/python3.10/site-packages/mini_pupper_music
+byte-compiling /home/ubuntu/ros2_ws/install/mini_pupper_music/lib/python3.10/site-packages/mini_pupper_music/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/ubuntu/ros2_ws/install/mini_pupper_music/lib/python3.10/site-packages/mini_pupper_music/music_player.py to music_player.cpython-310.pyc
+byte-compiling /home/ubuntu/ros2_ws/install/mini_pupper_music/lib/python3.10/site-packages/mini_pupper_music/music_server.py to music_server.cpython-310.pyc
+running install_data
+copying resource/mini_pupper_music -> /home/ubuntu/ros2_ws/install/mini_pupper_music/share/ament_index/resource_index/packages
+copying package.xml -> /home/ubuntu/ros2_ws/install/mini_pupper_music/share/mini_pupper_music
+copying resource/mini_pupper_music -> /home/ubuntu/ros2_ws/install/mini_pupper_music/share/mini_pupper_music/resource
+copying resource/robot1.wav -> /home/ubuntu/ros2_ws/install/mini_pupper_music/share/mini_pupper_music/resource
+copying resource/robot1.mp3 -> /home/ubuntu/ros2_ws/install/mini_pupper_music/share/mini_pupper_music/resource
+copying launch/music.launch.py -> /home/ubuntu/ros2_ws/install/mini_pupper_music/share/mini_pupper_music
+running install_egg_info
+Copying ../../../build/mini_pupper_music/mini_pupper_music.egg-info to /home/ubuntu/ros2_ws/install/mini_pupper_music/lib/python3.10/site-packages/mini_pupper_music-1.0.0-py3.10.egg-info
+running install_scripts
+Installing service script to /home/ubuntu/ros2_ws/install/mini_pupper_music/lib/mini_pupper_music
+writing list of installed files to '/home/ubuntu/ros2_ws/build/mini_pupper_music/install.log'

@@ -1,0 +1,12 @@
+srv/DanceCommand.idl
+srv/DanceCommand.srv
+srv/DanceCommand_Request.msg
+srv/DanceCommand_Response.msg
+srv/PlayMusic.idl
+srv/PlayMusic.srv
+srv/PlayMusic_Request.msg
+srv/PlayMusic_Response.msg
+srv/StopMusic.idl
+srv/StopMusic.srv
+srv/StopMusic_Request.msg
+srv/StopMusic_Response.msg

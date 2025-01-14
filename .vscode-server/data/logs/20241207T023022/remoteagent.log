@@ -1,0 +1,37 @@
+2024-12-07 02:30:22.868 [info] 
+
+
+
+
+2024-12-07 02:30:22.932 [info] Extension host agent started.
+2024-12-07 02:30:23.312 [info] [<unknown>][517fec6b][ManagementConnection] New connection established.
+2024-12-07 02:30:23.320 [info] [<unknown>][e0bcffd0][ExtensionHostConnection] New connection established.
+2024-12-07 02:30:26.504 [info] [<unknown>][e0bcffd0][ExtensionHostConnection] <2095> Launched Extension Host Process.
+2024-12-07 02:30:36.340 [error] [File Watcher] Unexpected error: inotify_add_watch on '/home/ubuntu/.vscode-server/data/logs/20241025T184742/exthost1/vscode.git' failed: No such file or directory (EUNKNOWN) (path: /home/ubuntu)
+2024-12-07 02:30:36.344 [error] [File Watcher (universal)] inotify_add_watch on '/home/ubuntu/.vscode-server/data/logs/20241025T184742/exthost1/vscode.git' failed: No such file or directory
+2024-12-07 02:31:53.348 [info] [<unknown>][517fec6b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-07 02:31:53.508 [info] [<unknown>][e0bcffd0][ExtensionHostConnection] <2095> Extension Host Process exited with code: 0, signal: null.
+2024-12-07 02:31:53.510 [info] Cancelling previous shutdown timeout
+2024-12-07 02:31:53.511 [info] Last EH closed, waiting before shutting down
+2024-12-07 02:31:55.064 [info] [<unknown>][25628b16][ManagementConnection] New connection established.
+2024-12-07 02:31:55.075 [info] [<unknown>][eced43f5][ExtensionHostConnection] New connection established.
+2024-12-07 02:31:55.089 [info] [<unknown>][eced43f5][ExtensionHostConnection] <4057> Launched Extension Host Process.
+2024-12-07 02:32:07.108 [info] Getting Manifest... ms-python.python
+2024-12-07 02:32:07.268 [info] Installing extension: ms-python.python {"isMachineScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/ubuntu/.vscode-server/extensions/extensions.json","external":"file:///home/ubuntu/.vscode-server/extensions/extensions.json","path":"/home/ubuntu/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"}}
+2024-12-07 02:32:07.651 [info] Getting Manifest... ms-python.vscode-pylance
+2024-12-07 02:32:07.736 [info] Getting Manifest... ms-python.debugpy
+2024-12-07 02:32:07.823 [info] Installing extension: ms-python.vscode-pylance {"isMachineScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/ubuntu/.vscode-server/extensions/extensions.json","external":"file:///home/ubuntu/.vscode-server/extensions/extensions.json","path":"/home/ubuntu/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-12-07 02:32:07.825 [info] Installing extension: ms-python.debugpy {"isMachineScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/ubuntu/.vscode-server/extensions/extensions.json","external":"file:///home/ubuntu/.vscode-server/extensions/extensions.json","path":"/home/ubuntu/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-12-07 02:32:22.280 [info] Extension signature verification result for ms-python.debugpy: Success. Executed: true. Duration: 8983ms.
+2024-12-07 02:32:22.316 [info] Extension signature verification result for ms-python.python: Success. Executed: true. Duration: 9610ms.
+2024-12-07 02:32:23.783 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Executed: true. Duration: 6829ms.
+2024-12-07 02:32:26.781 [info] Extracted extension to file:///home/ubuntu/.vscode-server/extensions/ms-python.debugpy-2024.12.0-linux-arm64: ms-python.debugpy
+2024-12-07 02:32:26.831 [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-python.debugpy-2024.12.0-linux-arm64
+2024-12-07 02:32:33.388 [info] Extracted extension to file:///home/ubuntu/.vscode-server/extensions/ms-python.python-2024.20.0-linux-arm64: ms-python.python
+2024-12-07 02:32:33.445 [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-python.python-2024.20.0-linux-arm64
+2024-12-07 02:32:47.678 [info] Extracted extension to file:///home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1: ms-python.vscode-pylance
+2024-12-07 02:32:47.804 [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1
+2024-12-07 02:32:47.883 [info] Extension installed successfully: ms-python.debugpy file:///home/ubuntu/.vscode-server/extensions/extensions.json
+2024-12-07 02:32:47.884 [info] Extension installed successfully: ms-python.python file:///home/ubuntu/.vscode-server/extensions/extensions.json
+2024-12-07 02:32:47.884 [info] Extension installed successfully: ms-python.vscode-pylance file:///home/ubuntu/.vscode-server/extensions/extensions.json
+2024-12-07 02:36:53.513 [info] New EH opened, aborting shutdown

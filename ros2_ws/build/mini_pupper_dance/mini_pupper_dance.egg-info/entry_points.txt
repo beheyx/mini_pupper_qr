@@ -1,0 +1,5 @@
+[console_scripts]
+client = mini_pupper_dance.dance_client:main
+pose_controller = mini_pupper_dance.pose_controller:main
+service = mini_pupper_dance.dance_server:main
+

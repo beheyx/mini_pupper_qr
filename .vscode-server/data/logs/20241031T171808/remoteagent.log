@@ -1,0 +1,12 @@
+2024-10-31 17:18:08.955 [info] 
+
+
+
+
+2024-10-31 17:18:09.028 [info] Extension host agent started.
+2024-10-31 17:18:09.440 [info] [<unknown>][86772d01][ManagementConnection] New connection established.
+2024-10-31 17:18:09.450 [info] [<unknown>][b4782132][ExtensionHostConnection] New connection established.
+2024-10-31 17:18:14.115 [info] [<unknown>][b4782132][ExtensionHostConnection] <1388> Launched Extension Host Process.
+2024-10-31 17:18:21.856 [error] [File Watcher] Unexpected error: inotify_add_watch on '/home/ubuntu/.vscode-server/data/logs/20241021T213852/exthost1/vscode.github' failed: No such file or directory (EUNKNOWN) (path: /home/ubuntu)
+2024-10-31 17:18:21.859 [error] [File Watcher (universal)] inotify_add_watch on '/home/ubuntu/.vscode-server/data/logs/20241021T213852/exthost1/vscode.github' failed: No such file or directory
+2024-10-31 17:23:09.030 [info] New EH opened, aborting shutdown

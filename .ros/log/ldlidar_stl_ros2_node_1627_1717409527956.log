@@ -1,0 +1,14 @@
+[INFO] [1717409528.477829336] [LD06]: LDLiDAR SDK Pack Version is: v3.0.3
+[INFO] [1717409528.486083195] [LD06]: <product_name>: LDLiDAR_LD06
+[INFO] [1717409528.489925126] [LD06]: <topic_name>: scan
+[INFO] [1717409528.496331522] [LD06]: <frame_id>: lidar_link
+[INFO] [1717409528.500899584] [LD06]: <port_name>: /dev/ttyAMA1
+[INFO] [1717409528.500974058] [LD06]: <port_baudrate>: 230400
+[INFO] [1717409528.501013665] [LD06]: <laser_scan_dir>: Counterclockwise
+[INFO] [1717409528.501048717] [LD06]: <enable_angle_crop_func>: false
+[INFO] [1717409528.501081306] [LD06]: <angle_crop_min>: 135.000000
+[INFO] [1717409528.501131357] [LD06]: <angle_crop_max>: 225.000000
+[INFO] [1717409528.511508727] [LD06]: ldlidar node start is success
+[INFO] [1717409528.530517455] [LD06]: ldlidar communication is normal.
+[INFO] [1717409528.564718831] [LD06]: Publish topic message:ldlidar scan data.
+[INFO] [1717409532.758583622] [rclcpp]: signal_handler(signum=2)

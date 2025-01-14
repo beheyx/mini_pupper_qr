@@ -1,0 +1,8 @@
+{
+  "package_name": "mini_pupper_interfaces",
+  "non_idl_tuples": [
+    "/home/ubuntu/ros2_ws/src/mini_pupper_ros/mini_pupper_interfaces:srv/DanceCommand.srv",
+    "/home/ubuntu/ros2_ws/src/mini_pupper_ros/mini_pupper_interfaces:srv/PlayMusic.srv",
+    "/home/ubuntu/ros2_ws/src/mini_pupper_ros/mini_pupper_interfaces:srv/StopMusic.srv"
+  ]
+}

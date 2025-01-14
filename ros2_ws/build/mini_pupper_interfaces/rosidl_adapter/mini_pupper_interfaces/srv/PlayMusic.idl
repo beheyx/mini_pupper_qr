@@ -1,0 +1,31 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from mini_pupper_interfaces/srv/PlayMusic.srv
+// generated code does not contain a copyright notice
+
+
+module mini_pupper_interfaces {
+  module srv {
+    struct PlayMusic_Request {
+      @verbatim (language="comment", text=
+        "The name of the song file")
+      string file_name;
+
+      @verbatim (language="comment", text=
+        "Optional offset (in seconds) to start loading the audio file")
+      float start_second;
+
+      @verbatim (language="comment", text=
+        "Optional duration to be played")
+      float duration;
+    };
+    struct PlayMusic_Response {
+      @verbatim (language="comment", text=
+        "Indicates whether the command was executed successfully")
+      boolean success;
+
+      @verbatim (language="comment", text=
+        "Additional information or error message")
+      string message;
+    };
+  };
+};

@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+launch/music.launch.py
+mini_pupper_music/__init__.py
+mini_pupper_music/music_player.py
+mini_pupper_music/music_server.py
+mini_pupper_music.egg-info/PKG-INFO
+mini_pupper_music.egg-info/SOURCES.txt
+mini_pupper_music.egg-info/dependency_links.txt
+mini_pupper_music.egg-info/entry_points.txt
+mini_pupper_music.egg-info/requires.txt
+mini_pupper_music.egg-info/top_level.txt
+mini_pupper_music.egg-info/zip-safe
+resource/mini_pupper_music
+resource/robot1.mp3
+resource/robot1.wav

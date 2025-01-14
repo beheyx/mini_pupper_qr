@@ -1,0 +1,26 @@
+2024-10-31 21:59:50.714 [info] 
+
+
+
+
+2024-10-31 21:59:50.766 [info] Extension host agent started.
+2024-10-31 21:59:51.207 [info] [<unknown>][4e2dc2d8][ExtensionHostConnection] New connection established.
+2024-10-31 21:59:51.210 [info] [<unknown>][60804373][ManagementConnection] New connection established.
+2024-10-31 21:59:56.259 [info] [<unknown>][60804373][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-10-31 21:59:57.638 [info] [<unknown>][27db1c3e][ManagementConnection] New connection established.
+2024-10-31 21:59:57.656 [info] [<unknown>][287bfea3][ExtensionHostConnection] New connection established.
+2024-10-31 21:59:59.280 [info] [<unknown>][4e2dc2d8][ExtensionHostConnection] <1385> Launched Extension Host Process.
+2024-10-31 21:59:59.301 [info] [<unknown>][287bfea3][ExtensionHostConnection] <1387> Launched Extension Host Process.
+2024-10-31 22:00:12.485 [error] [File Watcher] Unexpected error: inotify_add_watch on '/home/ubuntu/.vscode-server/data/logs/20241025T034821/exthost2' failed: No such file or directory (EUNKNOWN) (path: /home/ubuntu)
+2024-10-31 22:00:12.488 [error] [File Watcher (universal)] inotify_add_watch on '/home/ubuntu/.vscode-server/data/logs/20241025T034821/exthost2' failed: No such file or directory
+2024-10-31 22:04:50.768 [info] New EH opened, aborting shutdown
+2024-10-31 22:09:45.376 [info] [<unknown>][4770cb8d][ManagementConnection] New connection established.
+2024-10-31 22:09:45.387 [info] [<unknown>][d6ff7d05][ExtensionHostConnection] New connection established.
+2024-10-31 22:09:45.403 [info] [<unknown>][d6ff7d05][ExtensionHostConnection] <3230> Launched Extension Host Process.
+2024-10-31 22:10:12.317 [info] [<unknown>][27db1c3e][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-10-31 22:14:45.695 [info] [<unknown>][4e2dc2d8][ExtensionHostConnection] <1385> Extension Host Process exited with code: 0, signal: null.
+2024-10-31 22:14:45.718 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///home/ubuntu/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/server-main.js:183:1060)
+    at process.emit (node:events:531:35)
+2024-10-31 22:14:45.821 [info] [<unknown>][287bfea3][ExtensionHostConnection] <1387> Extension Host Process exited with code: 0, signal: null.
+2024-10-31 22:48:17.212 [info] [<unknown>][4770cb8d][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...

@@ -1,0 +1,22 @@
+[6.273s] Invoking command in '/home/ubuntu/ros2_ws/build/mini_pupper_dance': CMAKE_PREFIX_PATH=/home/ubuntu/ros2_ws/install/mini_pupper_interfaces:/home/ubuntu/ros2_ws/install/mini_pupper_slam:/home/ubuntu/ros2_ws/install/mini_pupper_description:/home/ubuntu/ros2_ws/install/mini_pupper_bringup:/home/ubuntu/ros2_ws/install/mini_pupper_2_description:/home/ubuntu/ros2_ws/install/ldlidar_stl_ros2:/home/ubuntu/ros2_ws/install/champ_teleop:/home/ubuntu/ros2_ws/install/champ_bringup:/home/ubuntu/ros2_ws/install/champ_base:/home/ubuntu/ros2_ws/install/champ_msgs:/home/ubuntu/ros2_ws/install/champ_description:/home/ubuntu/ros2_ws/install/champ_config:/home/ubuntu/ros2_ws/install/champ PYTHONPATH=/home/ubuntu/ros2_ws/build/mini_pupper_dance/prefix_override:/home/ubuntu/ros2_ws/install/mini_pupper_dance/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/ubuntu/ros2_ws/build/mini_pupper_dance/build --no-deps symlink_data --force
+[8.059s] running develop
+[9.146s] running egg_info
+[9.146s] writing mini_pupper_dance.egg-info/PKG-INFO
+[9.149s] writing dependency_links to mini_pupper_dance.egg-info/dependency_links.txt
+[9.150s] writing entry points to mini_pupper_dance.egg-info/entry_points.txt
+[9.151s] writing requirements to mini_pupper_dance.egg-info/requires.txt
+[9.151s] writing top-level names to mini_pupper_dance.egg-info/top_level.txt
+[9.161s] reading manifest file 'mini_pupper_dance.egg-info/SOURCES.txt'
+[9.167s] writing manifest file 'mini_pupper_dance.egg-info/SOURCES.txt'
+[9.173s] running build_ext
+[9.174s] Creating /home/ubuntu/ros2_ws/install/mini_pupper_dance/lib/python3.10/site-packages/mini-pupper-dance.egg-link (link to .)
+[9.178s] Installing client script to /home/ubuntu/ros2_ws/install/mini_pupper_dance/lib/mini_pupper_dance
+[9.179s] Installing pose_controller script to /home/ubuntu/ros2_ws/install/mini_pupper_dance/lib/mini_pupper_dance
+[9.180s] Installing service script to /home/ubuntu/ros2_ws/install/mini_pupper_dance/lib/mini_pupper_dance
+[9.181s] 
+[9.182s] Installed /home/ubuntu/ros2_ws/build/mini_pupper_dance
+[9.183s] running symlink_data
+[9.185s] symbolically linking /home/ubuntu/ros2_ws/build/mini_pupper_dance/resource/mini_pupper_dance -> /home/ubuntu/ros2_ws/install/mini_pupper_dance/share/ament_index/resource_index/packages
+[9.188s] symbolically linking /home/ubuntu/ros2_ws/build/mini_pupper_dance/package.xml -> /home/ubuntu/ros2_ws/install/mini_pupper_dance/share/mini_pupper_dance
+[9.191s] symbolically linking /home/ubuntu/ros2_ws/build/mini_pupper_dance/launch/dance.launch.py -> /home/ubuntu/ros2_ws/install/mini_pupper_dance/share/mini_pupper_dance
+[9.347s] Invoked command in '/home/ubuntu/ros2_ws/build/mini_pupper_dance' returned '0': CMAKE_PREFIX_PATH=/home/ubuntu/ros2_ws/install/mini_pupper_interfaces:/home/ubuntu/ros2_ws/install/mini_pupper_slam:/home/ubuntu/ros2_ws/install/mini_pupper_description:/home/ubuntu/ros2_ws/install/mini_pupper_bringup:/home/ubuntu/ros2_ws/install/mini_pupper_2_description:/home/ubuntu/ros2_ws/install/ldlidar_stl_ros2:/home/ubuntu/ros2_ws/install/champ_teleop:/home/ubuntu/ros2_ws/install/champ_bringup:/home/ubuntu/ros2_ws/install/champ_base:/home/ubuntu/ros2_ws/install/champ_msgs:/home/ubuntu/ros2_ws/install/champ_description:/home/ubuntu/ros2_ws/install/champ_config:/home/ubuntu/ros2_ws/install/champ PYTHONPATH=/home/ubuntu/ros2_ws/build/mini_pupper_dance/prefix_override:/home/ubuntu/ros2_ws/install/mini_pupper_dance/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/ubuntu/ros2_ws/build/mini_pupper_dance/build --no-deps symlink_data --force

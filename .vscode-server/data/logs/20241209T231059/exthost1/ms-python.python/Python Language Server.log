@@ -1,0 +1,23 @@
+2024-12-09 23:11:14.568 [info] (Client) Pylance async client (2024.12.1) started with python extension (2024.20.0)
+2024-12-09 23:11:16.448 [info] [Info  - 11:11:16 PM] (3003) Server root directory: file:///home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2024-12-09 23:11:16.455 [info] [Info  - 11:11:16 PM] (3003) Pylance language server 2024.12.1 (pyright version 1.1.389, commit ce1325fc) starting
+2024-12-09 23:11:16.456 [info] [Info  - 11:11:16 PM] (3003) Starting service instance "pots"
+2024-12-09 23:11:16.974 [info] [Info  - 11:11:16 PM] (3003) Setting environmentName for service "pots": "3.10.12 (usr venv)"
+2024-12-09 23:11:16.977 [info] [Info  - 11:11:16 PM] (3003) Setting pythonPath for service "pots": "/bin/python"
+2024-12-09 23:11:16.980 [info] [Info  - 11:11:16 PM] (3003) No include entries specified; assuming /home/ubuntu/pots
+2024-12-09 23:11:16.984 [info] [Info  - 11:11:16 PM] (3003) Auto-excluding **/node_modules
+2024-12-09 23:11:16.986 [info] [Info  - 11:11:16 PM] (3003) Auto-excluding **/__pycache__
+2024-12-09 23:11:17.002 [info] [Info  - 11:11:16 PM] (3003) Auto-excluding **/.*
+2024-12-09 23:11:17.143 [info] [Info  - 11:11:17 PM] (3003) Assuming Python version 3.10.12.final.0
+2024-12-09 23:11:17.934 [info] [Info  - 11:11:17 PM] (3003) Found 2 source files
+2024-12-09 23:11:21.432 [info] [Info  - 11:11:21 PM] (3003) Background analysis(1) root directory: file:///home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2024-12-09 23:11:21.442 [info] [Info  - 11:11:21 PM] (3003) Background analysis(1) started
+2024-12-09 23:11:23.838 [info] [Info  - 11:11:23 PM] (3003) Indexer background runner(2) root directory: file:///home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist (index)
+2024-12-09 23:11:23.850 [info] [Info  - 11:11:23 PM] (3003) Indexing(2) started
+2024-12-09 23:11:25.381 [info] [Info  - 11:11:25 PM] (3003) [BG(1)] Long operation: indexing: file:///home/ubuntu/pots/main.py (3892ms)
+2024-12-09 23:11:33.488 [info] [Info  - 11:11:33 PM] (3003) [IDX(2)] Long operation: scan packages file:///home/ubuntu/pots (9354ms)
+2024-12-09 23:11:33.490 [info] [Info  - 11:11:33 PM] (3003) scanned(2) 288 files over 1 exec env
+2024-12-09 23:11:36.179 [info] [Info  - 11:11:36 PM] (3003) [BG(1)] Long operation: checking: file:///home/ubuntu/pots/movement_api.py (9972ms)
+2024-12-09 23:11:36.181 [info] [Info  - 11:11:36 PM] (3003) [BG(1)] Long operation: analyzing: file:///home/ubuntu/pots/movement_api.py (10267ms)
+2024-12-09 23:11:36.406 [info] [Info  - 11:11:36 PM] (3003) indexed(2) 288 files over 1 exec env
+2024-12-09 23:11:36.910 [info] [Info  - 11:11:36 PM] (3003) Indexing finished(2).

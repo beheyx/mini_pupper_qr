@@ -1,0 +1,15 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from mini_pupper_interfaces/srv/DanceCommand.srv
+// generated code does not contain a copyright notice
+
+
+module mini_pupper_interfaces {
+  module srv {
+    struct DanceCommand_Request {
+      string data;
+    };
+    struct DanceCommand_Response {
+      boolean executed;
+    };
+  };
+};
